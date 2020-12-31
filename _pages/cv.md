@@ -43,7 +43,3 @@ Work experience
   * Robotics Research Centre
 Worked on several SOTA RL algorithms in Robotics and Control under Professor Madhav Krishna.
 Implemented algorithms from Monte-Carlo to PPO, TRPO, DDPG etc from scratch. Also used open AI gym, RLib, Vowpall wabbit and engines like Gazebo, Mojuco for control in robotics.
-
-\href {https://github.com/avani17101/Reinforcement-Learning-Algorithms}{\color{VividBlue} view project}
-
-Download cv: 
