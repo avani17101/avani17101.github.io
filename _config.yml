@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "avani17101"
+title                    : "Avani Gupta"
 title_separator          : "-"
 name                     : &name "Avani Gupta"
-description              : &description "Welcome"
+description              : &description "Computer Vision and Graphics Researcher"
 url                      : https://avani17101.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "avani17101/avani17101.github.io"
