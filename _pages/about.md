@@ -27,7 +27,7 @@ Matriculation - AISSE, May 2015 , 8.6 CGPA
 Work experience
 ======
 
-* May 2021- Present: Research Intern 
+* May 2021- August 2021: Research Intern 
   * IBM Research | Bangalore, India
 ===
  Research project on building system for Goal Oriented Next Best Action Prediction in Business Processes using Deep Reinforcement Learning.
@@ -36,12 +36,12 @@ Work experience
 * May 2020- Present: Researcher
   * CVIT, IIIT Hyderabad
 ===
-  Working on Computer Vision and Graphics under Professor P.J. Narayan. Work involves Neural rendering, ray tracing and 3D reconstruction of objects and scenes. Working on photo-realistic reconstructions and rendering of scenes from images using Deep Neural Networks. Currently working on NeRF(Neural Radiance fields) line of work. Implemented and reproduced results of several papers in neural rendering.
+  Working on Computer Vision and Graphics under Professor P.J. Narayan. Working on ML interpretability, Intrinsic Image decomposition. Worked in Neural rendering, ray tracing and 3D reconstruction of objects and scenes. Working on photo-realistic reconstructions and rendering of scenes from images using Deep Neural Networks. Studied NeRF(Neural Radiance fields) line of work. Implemented and reproduced results of several papers in neural rendering.
 
 
 * Dec 2020-Present: Independent Study and Researcher
   * CVIT, IIIT Hyderabad
-  Independent Study under Professor Avinash Sharma. Working on Realistic Human Body Reconstructions and Digital Humans.
+  Independent Study under Professor Avinash Sharma. Working on Realistic Human Body Reconstructions and Digital Humans. Working on temporal stability over 3D.
 
 
 * June - July 2020: Crew Member and Mentee
