@@ -11,8 +11,8 @@ Hi, there!
 This is Avani Gupta.
 Welcome to my web-page.
 
-I am an Undergraduate researcher at CVIT, IIIT Hyderabad. Currently pursuing my integrated Bachelors and Masters in Computer Science at IIIT Hyderabad.
-I am currently working on Neural Rendering, Neural Scene editing, and Computer graphics as my research work under Professor PJ Narayan, in CVIT. I have worked previously on NLP (Fake news detection) and Reinforcement Learning. Proficient in Computer Vision, Reinforcement Learning, Artificial Intelligence, Deep Learning, Natural Language Processing, web-dev, app-dev with demonstrated history of work.
+I am a Final Year Masters Student at IIIT Hyderabad. I am doing my masters under Prof. P J Narayanan in ML interpretability applied over Computer Vision and Graphics. I completed my B.Tech in Computer Science from IIIT Hyderabad in 2021. 
+I have worked with Reinforcement Learning in Business Process Automations (in my Internship at IBM Research). I have worked in loose clothing in 3D human body in Independent Study with Prof. Avinash Sharma. I have also worked in NLP problems like scientific papers summarization: https://aclanthology.org/2022.coling-1.399/, Fake News Detection etc. I am proficient in Machine Learning(including Deep Learning), Computer Vision, Reinforcement Learning, Natural Language Processing, web-dev, app-dev with demonstrated history of work.
 I am passionate about building real-life applications for solving problems faced by people worldwide.
 
 Education
@@ -30,18 +30,18 @@ Work experience
 * May 2021- August 2021: Research Intern 
   * IBM Research | Bangalore, India
 ===
- Research project on building system for Goal Oriented Next Best Action Prediction in Business Processes using Deep Reinforcement Learning.
+ Research project on building system for Goal Oriented Next Best Action Prediction in Business Processes using Deep Reinforcement Learning. Submitted [Paper](https://www.researchgate.net/publication/360462271_Goal-Oriented_Next_Best_Activity_Recommendation_using_Reinforcement_Learning}{Preprint) and US. patent (currently in last stage after signing)
 
 
 * May 2020- Present: Researcher
   * CVIT, IIIT Hyderabad
 ===
-  Working on Computer Vision and Graphics under Professor P.J. Narayan. Working on ML interpretability, Intrinsic Image decomposition. Worked in Neural rendering, ray tracing and 3D reconstruction of objects and scenes. Working on photo-realistic reconstructions and rendering of scenes from images using Deep Neural Networks. Studied NeRF(Neural Radiance fields) line of work. Implemented and reproduced results of several papers in neural rendering.
+  Working on ML Interpretability applied in Computer Vision and Graphics under Professor P.J. Narayan. Worked in Neural rendering, ray tracing and 3D reconstruction of objects and scenes. Studied NeRF(Neural Radiance fields) line of work. Implemented and reproduced results of several papers in neural rendering.
 
 
-* Dec 2020-Present: Independent Study and Researcher
+* Jan 2020- Jan 2021: Independent Study and Researcher
   * CVIT, IIIT Hyderabad
-  Independent Study under Professor Avinash Sharma. Working on Realistic Human Body Reconstructions and Digital Humans. Working on temporal stability over 3D.
+  Independent Study under Professor Avinash Sharma. Worked on Realistic Human Body Reconstructions and Digital Humans. Working on temporal stability over 3D.
 
 
 * June - July 2020: Crew Member and Mentee
