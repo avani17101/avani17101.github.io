@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="width=device-width, initial-scale=1">
+    <meta name="description" content="CSM metric for measuring disentanglement. Accepted in ICVGIP2022"/>
+    <title>CSM</title>
+    <!-- Bootstrap -->
+    <!--link href="css/bootstrap-4.4.1.css" rel="stylesheet"-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <!--link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"-->
+    <!--style>
+      body {
+        background: #fdfcf9 no-repeat fixed top left;
+        font-family:'Open Sans', sans-serif;
+      }
+    </style-->
+
+  </head>
+
+  <!-- cover -->
+  <section>
+    <div class="jumbotron text-center mt-0">
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <h2>Interpreting Intrinsic Image Decomposition using Concept Activations​</h2>
+            <h4 style="color:#6e6e6e;"> ICVGIP 2022 </h4>
+            <hr>
+            
+         
+              <style>
+
+              /* Set additional styling options for the columns*/
+              .column {
+              float: left;
+              width: 33%;
+              }
+
+              .row:after {
+              content: "";
+              display: table;
+              clear: both;
+              }
+              </style>
+          
+           <body>
+              <div class="row">
+                  <div class="column" >
+                      <h6>Avani Gupta</h6>
+                      <h8>CVIT, KCIS, IIIT Hyderabad<br> avani.gupta@research.iiit.ac.in </h8>
+                  </div>
+                  <div class="column" >
+                      <h6>Saurabh Saini</h6>
+                      <h8>CVIT, KCIS, IIIT Hyderabad<br> saurabh.saini@research.iiit.ac.in </h8>
+                  </div>
+                  <div class="column" >
+                    <h6>P J Narayanan</h6>
+                    <h8>CVIT, KCIS, IIIT Hyderabad<br> pjn@iiit.ac.in </h8>
+                </div>
+              </div>
+           </body>
+            <br>             
+            <br>
+                <a class="btn btn-secondary btn-lg" href="https://github.com/avani17101/CSM" role="button">Code</a> 
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- abstract -->
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h3>Abstract</h3>
+            <hr style="margin-top:0px">
+
+            <!-- <div class="embed-responsive embed-responsive-16by9"> -->
+                <!-- <iframe style="clip-path: inset(1px 1px)" width="100%" height="100%" src="https://www.youtube.com/embed/EpmnpwwaR14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> -->
+            <!-- </div> -->
+                <img class="img-fluid" src="../images/Teasor_TCAV_IID_finall.png" alt="Teaser">
+            
+          <p class="text-justify">
+            Evaluation of ill-posed problems like Intrinsic Image Decomposition (IID) is challenging. IID involves decomposing an image into its constituent illumination-invariant Reflectance (R) and albedo- invariant Shading (S) components. Contemporary IID methods use Deep Learning models and require large datasets for training. The evaluation of IID is carried out on either synthetic Ground Truth images or sparsely annotated natural images. A scene can be split into reflectance and shading in multiple, valid ways. Comparison with one specific decomposition in the ground-truth images used by current IID evaluation metrics like LMSE, MSE, DSSIM, WHDR, SAW AP%, etc., is inadequate. Measuring R-S disentanglement is a better way to evaluate the quality of IID. Inspired by ML inter- pretability methods, we propose Concept Sensitivity Metrics (CSM) that directly measure disentanglement using sensitivity to relevant concepts. Activation vectors for albedo invariance and illumination invariance concepts are used for the IID problem. We evaluate and interpret three recent IID methods on our synthetic benchmark of controlled albedo and illumination invariance sets. We also compare our disentanglement score with existing IID evaluation metrics on both natural and synthetic scenes and report our observations.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <br>
+
+  
+  </script>
+  <!--script>
+    MathJax = {
+      tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
+    };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script-->
+</body>
+</html>
