@@ -11,18 +11,19 @@ Hi, there!
 This is Avani Gupta.
 Welcome to my web-page.
 
-I a Research Associate at G42, Abu Dhabi, UAE. I am did my masters under Prof. P J Narayanan in ML interpretability applied over Computer Vision and Graphics. I completed my B.Tech in Computer Science from IIIT Hyderabad in 2021. 
-I have worked with Reinforcement Learning in Business Process Automations (in my Internship at IBM Research). I have worked in loose clothing in 3D human body in Independent Study with Prof. Avinash Sharma. I have also worked in NLP problems like scientific papers summarization, NER, Fake News Detection etc. I am proficient in Deep Learning, Computer Vision, Reinforcement Learning, Natural Language Processing, web-dev, app-dev with demonstrated history of work.
-I am keen over learning new things and working on problems where I can make an impact.
+I am working as a Research Associate at G42, Abu Dhabi, UAE. I did my masters under Prof. P J Narayanan in ML interpretability and Computer Vision. I specifically worked on post-hoc model evaluation as well as ante-hoc model training using human centered concepts. I completed my B.Tech in Computer Science from IIIT Hyderabad in 2021. 
 
-Education
+
+Other problems I have worked on:  Reinforcement Learning in Business Process Automations (in my Internship at IBM Research, 2021); loose clothing in 3D human body in Independent Study with Prof. Avinash Sharma. I have also worked in NLP problems like scientific papers summarization, NER, Fake News Detection etc. I am proficient in Explainable AI, Deep Learning, Computer Vision, Reinforcement Learning, Natural Language Processing, web-dev, app-dev with demonstrated history of work.
+I am keen on learning new things and working on problems where I can make an impact. For more details please find my [CV](https://avani17101.github.io/CV/).
+
+News
 ======
-* International Institute of Information Technology, Hyderabad, India (2019-2023)
-B.Tech(Hons) + MS by Research in Computer Science
-* Holy Cross S.S school, Pension Bada - Raipur, Chhattisgarh, India (2002-2017)
-Intermediate - AISSCE, May 2017 
-Mathematics, Informatics Practices, Chemistry 90/100, Agg. 84.8%​
-Matriculation - AISSE, May 2015 , 8.6 CGPA
+* Paper "Concept Distillation: Leveraging Human-Centered Explanations for Model Improvement​", accepted in Neurips 2023!
+* Defended my Masters thesis successfully on September 30th, 2023.
+* Paper "Predicting Business Process Events in Presence of Anomalous IT Events", accepted in  CODS-COMAD, 2024.
+* Oral and Best paper award for paper titled "Interpreting Intrinsic Image Decomposition using Concept Activations" in ICVGIP, 2022
+  
 
 Work experience
 ======
@@ -37,7 +38,7 @@ Work experience
  Research project on building system for Goal Oriented Next Best Action Prediction in Business Processes using Deep Reinforcement Learning. Submitted [Paper](https://www.researchgate.net/publication/360462271_Goal-Oriented_Next_Best_Activity_Recommendation_using_Reinforcement_Learning}{Preprint) and US. patent (currently in last stage after signing)
 
 
-* May 2020- Present: Researcher
+* May 2020 - Sep 2023: Researcher
   * CVIT, IIIT Hyderabad
 ===
   Working on ML Interpretability applied in Computer Vision and Graphics under Professor P.J. Narayan. Worked in Neural rendering, ray tracing and 3D reconstruction of objects and scenes. Studied NeRF(Neural Radiance fields) line of work. Implemented and reproduced results of several papers in neural rendering.
