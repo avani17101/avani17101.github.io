@@ -19,10 +19,11 @@ I am keen on learning new things and working on problems where I can make an imp
 
 News
 ======
-* Paper "Concept Distillation: Leveraging Human-Centered Explanations for Model Improvement​", accepted in Neurips 2023!
-* Defended my Masters thesis successfully on September 30th, 2023.
-* Paper "Predicting Business Process Events in Presence of Anomalous IT Events", accepted in  CODS-COMAD, 2024.
-* Oral and Best paper award for paper titled "Interpreting Intrinsic Image Decomposition using Concept Activations" in ICVGIP, 2022
+- **Sepetember 22, 2023:** Paper "Concept Distillation: Leveraging Human-Centered Explanations for Model Improvement​" accepted in Neurips 2023!
+- **September 30, 2023:** Successfully defended my Master's thesis.
+- **September 12, 2023:** Paper "Predicting Business Process Events in Presence of Anomalous IT Events" accepted in CODS-COMAD, 2024.
+- **December 10, 2022:** Received the Oral and Best Paper Award for the paper titled "Interpreting Intrinsic Image Decomposition using Concept Activations" in ICVGIP, 2022.
+
   
 
 Work experience
