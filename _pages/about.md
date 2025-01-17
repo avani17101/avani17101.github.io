@@ -11,11 +11,17 @@ Hi, there!
 This is Avani Gupta.
 Welcome to my web-page.
 
-I am working as a Research Associate at G42, Abu Dhabi, UAE. I did my masters under Prof. P J Narayanan in ML interpretability and Computer Vision. I specifically worked on post-hoc model evaluation as well as ante-hoc model training using human centered concepts. I completed my B.Tech in Computer Science from IIIT Hyderabad in 2021. 
+
+I worked on AI research and development in building competent LLMs from scratch, improvising on not only data but model architecture. One of the models I worked on Med42: A medical LLM, is already released on huggingface. 
+I researched on novel attention mechanisms for LLMs and proposed one in my current work. I have been handling model architecture development as well as synthetic data generation pipelines for pre-training and supervised fine-tuning. I have been involved in end-to-end training of LLMs: including pre-training data and scripts using deepspeed, supervised fine-tuning, DPO and RLHF.
+I also developed a real-time advanced RAG system for chat support, enhancing customer interaction capabilities as an AI Engineer. I built agents with various tools including a custom retrieval agent with advanced multi-modal retrieval, utilizing RAPTOR for document summaries and self-re-RAG. I have tackled multiple challenges and built several additional components to ensure a robust system, such as content moderation and jailbreak attempt flagging. 
+
+I worked on ML interpretability during my master's at IIIT Hyderabad and presented my paper titled "Concept Distillation: Leveraging Human-Centered Concepts for Model Improvement" in Neurips, 2023. I also published my work in ICVGIP and got the oral and best paper award. I also mentored my advisor's student in using interpretability for prevention and cure of backdoor attacks.
+Previously, I worked with IBM Research on Reinforcement Learning in business processes, where I patented and published two works. With IBM Research, I created AI models for forecasting the next steps in business processes and optimizing various KPI goals for the organization. 
+
+I am always keen to apply my skills and gather knowledge while working on interesting and novel problems. I have published my research in top AI conferences like NeurIPS, COLING, and CODS-COMAD, and I have experience in NLP, Computer Vision, and Reinforcement Learning, being a fast learner. I look forward to joining you and contributing for important work in the field.
 
 
-Other problems I have worked on:  Reinforcement Learning in Business Process Automations (in my Internship at IBM Research, 2021); loose clothing in 3D human body in Independent Study with Prof. Avinash Sharma. I have also worked in NLP problems like scientific papers summarization, NER, Fake News Detection etc. I am proficient in Explainable AI, Deep Learning, Computer Vision, Reinforcement Learning, Natural Language Processing, web-dev, app-dev with demonstrated history of work.
-I am keen on learning new things and working on problems where I can make an impact. For more details please find my [CV](https://avani17101.github.io/CV/).
 
 News
 ======
@@ -28,10 +34,30 @@ News
 
 Work experience
 ======
-* March 2023 - Present: Research Associate
+
+* April 2024 - Present: AI Engineer
+   * Stealth AI Startup | Abu Dhabi, UAE
+===
+* Trained a LLM end to end from scratch for advancing SOTA: from data curation to pre-training to post-training (Supervised Fine-Tuning and Alignment using RLHF)
+• Designed LLM with novel attention mechanism, pipelines for data generation.
+• Built POC for RAG usecase including RAG script, Frontend and Backend (nodejs).
+• Built an AI Assistant with various tools including advanced multi-modalretrieval,
+utilizing RAPTOR for document summaries and self-re-RAG (using LangChain, FastAPI)
+• Productionized the AI Assistant with Azure OpenAI and Google cloud.
+• Tackled multiple challenges in the AI assistant and built components like content
+moderation and jailbreak attempts flagging to ensure a robust deployed system.
+
+
+* March 2023 - March 2024: Research Associate
    * G42 Healthcare | Abu Dhabi, UAE
 ===
- Research project on building foundation model on Electronic Health Records (EHR) data. Will help in patient risk identification (chances of developing a certain diseases) and thus proactive diagnosis and treatment of diseases via personalized medicine.
+• Trained a foundation model from scratch in a novel setting to predict procedures,
+diagnosis and medications for patients given medical history and demographics.
+• Used it for chronic disease identification, mortality prediction,re-admission prediction
+and personalised medicine.
+• Orchestrated training dataset (from 10M+ articles) and evaluation of Clinical LLM.
+Outcomes: Med42 released on [HuggingFace](https://huggingface.co/m42-health/med42-70b) and authored [paper](https://arxiv.org/abs/2404.14779).
+
 
 * May 2021- August 2021: Research Intern 
   * IBM Research | Bangalore, India
