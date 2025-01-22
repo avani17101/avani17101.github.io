@@ -25,7 +25,7 @@ I am always keen to apply my skills and gather knowledge while working on intere
 
 News
 ======
-- **Dec, 2023** [Med42](https://huggingface.co/m42-health/med42-70b) released on huggingface!
+- **Dec, 2023:** [Med42](https://huggingface.co/m42-health/med42-70b) released on huggingface!
 - **Sepetember 22, 2023:** Paper "[Concept Distillation: Leveraging Human-Centered Explanations for Model Improvement](https://neurips.cc/virtual/2023/poster/71179)​" accepted in Neurips 2023!
 - **September 30, 2023:** Successfully defended my Master's thesis.
 - **September 12, 2023:** Paper "Predicting Business Process Events in Presence of Anomalous IT Events" accepted in CODS-COMAD, 2024.
