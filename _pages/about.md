@@ -59,14 +59,19 @@ Work experience
       * Orchestrated training dataset (from 10M+ articles) and evaluation of Clinical LLM.
       Outcomes: Med42 released on [HuggingFace](https://huggingface.co/m42-health/med42-70b) and authored [paper](https://arxiv.org/abs/2404.14779).
 
-
-* May 2021- August 2021: Research Intern 
+* Sep 2022- Dec 2022: Research Intern 
   * IBM Research | Bangalore, India
 ===
- Research project on building system for Goal Oriented Next Best Action Prediction in Business Processes using Deep Reinforcement Learning. Submitted [Paper](https://www.researchgate.net/publication/360462271_Goal-Oriented_Next_Best_Activity_Recommendation_using_Reinforcement_Learning}{Preprint) and US. patent (currently in last stage after signing)
+    * Worked on forecasting and handling IT errors in Business Processes: [paper](https://dl.acm.org/doi/10.1145/3632410.3632437)
+
+* May 2021- Dec 2021: Research Intern 
+  * IBM Research | Bangalore, India
+===
+    * Research project on building system for Goal Oriented Next Best Action Prediction in Business Processes using Deep Reinforcement Learning. 
+    * Submitted [Paper](https://www.researchgate.net/publication/360462271_Goal-Oriented_Next_Best_Activity_Recommendation_using_Reinforcement_Learning}{Preprint) and US. patent (currently in last stage after signing)
 
 
-* May 2020 - Sep 2023: Researcher
+* May 2020 - March 2023: Researcher
   * CVIT, IIIT Hyderabad
 ===
       * Worked on ML Interpretability applied in Computer Vision and Graphics under Professor P.J. Narayan. 
