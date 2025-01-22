@@ -39,24 +39,22 @@ Work experience
 * April 2024 - Present: AI Engineer
    * Stealth AI Startup | Abu Dhabi, UAE
 ===
-* Trained a LLM end to end from scratch for advancing SOTA: from data curation to pre-training to post-training (Supervised Fine-Tuning and Alignment using RLHF)
-• Designed LLM with novel attention mechanism, pipelines for data generation.
-• Built POC for RAG usecase including RAG script, Frontend and Backend (nodejs).
-• Built an AI Assistant with various tools including advanced multi-modalretrieval,
+* Trained a LLM end to end from scratch for advancing SOTA: from data curation to pre-training to post-training (Supervised Fine-Tuning and Alignment using RLHF) 
+*  Designed LLM with novel attention mechanism, pipelines for data generation.
+* Built an AI Assistant with various tools including advanced multi-modalretrieval,
 utilizing RAPTOR for document summaries and self-re-RAG (using LangChain, FastAPI)
-• Productionized the AI Assistant with Azure OpenAI and Google cloud.
-• Tackled multiple challenges in the AI assistant and built components like content
-moderation and jailbreak attempts flagging to ensure a robust deployed system.
+* Productionized the AI Assistant with Azure OpenAI and Google cloud.
+* Tackled multiple challenges in the AI assistant and built components like content moderation and jailbreak attempts flagging to ensure a robust deployed system.
 
 
 * March 2023 - March 2024: Research Associate
    * G42 Healthcare | Abu Dhabi, UAE
 ===
-• Trained a foundation model from scratch in a novel setting to predict procedures,
+* Trained a foundation model from scratch in a novel setting to predict procedures,
 diagnosis and medications for patients given medical history and demographics.
-• Used it for chronic disease identification, mortality prediction,re-admission prediction
+* Used it for chronic disease identification, mortality prediction,re-admission prediction
 and personalised medicine.
-• Orchestrated training dataset (from 10M+ articles) and evaluation of Clinical LLM.
+* Orchestrated training dataset (from 10M+ articles) and evaluation of Clinical LLM.
 Outcomes: Med42 released on [HuggingFace](https://huggingface.co/m42-health/med42-70b) and authored [paper](https://arxiv.org/abs/2404.14779).
 
 
