@@ -85,10 +85,10 @@ Work experience
       * Also worked in Neural rendering, ray tracing and 3D reconstruction of objects and scenes. Studied NeRF(Neural Radiance fields) line of work. Implemented and reproduced results of several papers in neural rendering.
 
 
-* Jan 2020- Jan 2021: Independent Study and Researcher
+* Jan 2020- Jan 2021: Independent Study Researcher
   * CVIT, IIIT Hyderabad
 ===
-      * Independent Study under Professor Avinash Sharma. Worked on Realistic Human Body Reconstructions and Digital Humans. Working on temporal stability over 3D.
+      * Worked on Realistic Human Body Reconstructions and Digital Humans and temporal stability over 3D animations with Professor Avinash Sharma.
 
 
 * June - July 2020: Crew Member and Mentee
