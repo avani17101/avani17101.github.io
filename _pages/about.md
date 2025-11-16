@@ -4,41 +4,90 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  * /about/
+  * /about.html
 ---
 Hi, there!
 This is Avani Gupta.
 Welcome to my web-page.
 
 **A brief Introduction of my journey so far:**
-I worked on AI research and development in building competent LLMs from scratch, improvising on not only data but model architecture. One of the models I worked on Med42: A medical LLM, is already released on huggingface. 
-I researched on novel attention mechanisms for LLMs and proposed one in my current work. I have been handling model architecture development as well as synthetic data generation pipelines for pre-training and supervised fine-tuning. I have been involved in end-to-end training of LLMs: including pre-training data and scripts using deepspeed, supervised fine-tuning, DPO and RLHF.
-I also developed a real-time advanced RAG system for chat support, enhancing customer interaction capabilities as an AI Engineer. I built agents with various tools including a custom retrieval agent with advanced multi-modal retrieval, utilizing RAPTOR for document summaries and self-re-RAG. I have tackled multiple challenges and built several additional components to ensure a robust system, such as content moderation and jailbreak attempt flagging. 
 
-I worked on ML interpretability during my master's at IIIT Hyderabad and presented my paper titled "Concept Distillation: Leveraging Human-Centered Concepts for Model Improvement" in Neurips, 2023. I also published my work in ICVGIP and got the oral and best paper award.
-I have been involved in several projects with my advisor, where I contribute to brainstorming and mentoring efforts. These projects focus on interpretability for mitigating backdoor attacks and style transfer using interpretable concepts. Prior to Interpretability, I worked on 3D human models and NeRF line of work in my lab CVIT.
+I am currently an **AI Engineer at MBZUAI**, where I work on  
+**multi-agent social learning**, **LLM evaluation**, and **agentic systems**.  
+I recently proposed a **new cooperative MARL training paradigm** and desgined evaluation pipelines using LLM-as-judge and persona-conditioned synthetic data generation.
 
-I have also worked with IBM Research on Reinforcement Learning in business processes, where I patented and published two works. With IBM Research, I created AI models for forecasting the next steps in business processes and optimizing various KPI goals for the organization. 
+Previously, I worked as an AI Engineer at a **stealth LLM startup**, where I:
 
-I am always keen to apply my skills and gather knowledge while working on interesting and novel problems. I have published my research in top AI conferences like NeurIPS, COLING, and CODS-COMAD, and I have experience in NLP, Computer Vision, and Reinforcement Learning, being a fast learner.
+* trained **small LLMs end-to-end** (tokenizer → pretraining → SFT → RLHF),  
+* proposed a **novel MLA+GQA hybrid attention mechanism** for long-context reasoning,  
+* and built/deployed multiple agents (RAG, SQL, audio-analysis, safety systems) used by **3,500+ users**.
+
+Before that, I was a **Research Associate at G42 Healthcare**, where I helped train a **clinical foundation model** for patient trajectory prediction and contributed data pipelines for **Med42**, a 70B medical LLM now available on HuggingFace.
+
+My research background is rooted in **ML interpretability**.  
+At **CVIT, IIIT Hyderabad**, I developed:
+
+* the **concept-sensitivity loss** (higher-order gradients) for shaping model representations — published at **NeurIPS 2023**,  
+* a **sensitivity-based disentanglement metric** for intrinsic image decomposition — **Oral + Best Paper Award**, **ICVGIP 2022**,  
+* and guided follow-up student-led extensions to **backdoor defense (ICCV 2025)** and **controllable style transfer (ICVGIP 2025)**.
+
+I also explored **NeRF, 3D reconstruction, and human modeling** during my early work at CVIT.
+
+Alongside this, I worked with **IBM Research** on applying RL to dynamic business processes. I developed:
+
+* a **goal-oriented next-best-action system** with custom state/action spaces and DFG-based action masking (leading to a **US patent**, pending grant),  
+* and transformers for modeling anomalous IT events (**CODS-COMAD 2024**).
+
+Across roles, I enjoy working at the intersection of **intuitive idea formation, rigorous modeling, and systems-level execution**, and I value research that is both conceptual and practical.
+
+I have published my work in venues including **NeurIPS, ICCV, ICVGIP, COLING, and CODS-COMAD**, with experience spanning **NLP, RL, interpretability, and computer vision**.
 
 
 
 News
 ======
-- **December, 2023:** [Med42](https://huggingface.co/m42-health/med42-70b) released on huggingface!
-- **Sepetember 22, 2023:** Paper "[Concept Distillation: Leveraging Human-Centered Explanations for Model Improvement](https://neurips.cc/virtual/2023/poster/71179)​" accepted in Neurips 2023!
-- **September 30, 2023:** Successfully defended my Master's thesis.
-- **September 12, 2023:** Paper "Predicting Business Process Events in Presence of Anomalous IT Events" accepted in CODS-COMAD, 2024.
-- **December 10, 2022:** Received the Oral and Best Paper Award for the paper titled "Interpreting Intrinsic Image Decomposition using Concept Activations" in ICVGIP, 2022.
+
+## News
+
+### 2025
+
+* **March 2025** — Paper on **Prototype-Guided Backdoor Defense** accepted to *ICCV 2025*.
+* **February 2025** — Paper on **Controllable Concept-Guided Style Transfer** accepted to *ICVGIP 2025*.
+* **January 2025** — Work on **Building Trust in Clinical LLMs** accepted to *EMNLP 2025*.
+
+### 2024
+
+* **December 2024** — Presented work on multi-agent learning and evaluation pipelines at *MBZUAI Research Office*.
+* **February 2024** — Paper **Predicting Business Process Events Under Anomalous IT Errors** published at *CODS-COMAD 2024*.
+* **January 2024** — Contributed to release of **Med42 (70B Clinical LLM)** on HuggingFace.
+
+### 2023
+
+* **September 2023** — Paper **Concept Distillation: Leveraging Human-Centered Explanations** accepted to *NeurIPS 2023*.
+* **September 2023** — Successfully defended M.S. Thesis at IIIT Hyderabad.
+
+### 2022
+
+* **December 2022** — Received **Best Paper Award** and **Oral Presentation** at *ICVGIP 2022* for work on concept-based disentanglement.
+* **October 2022** — Paper **CitRet: Cited Text Span Retrieval** accepted to *COLING 2022*.
+
 
   
 
 Work experience
 ======
 
-* April 2024 - Present: AI Engineer
+* Jun 2025 * Present: MBZUAI — AI Engineer, Research Office  
+    * Abu Dhabi, UAE 
+===
+      * Proposed a novel multi-agent reinforcement learning (MARL) training framework (ongoing).
+      * Bridged real-world industry challenges into research problems; identified and connected with faculty collaborators to integrate robust academic and practical insights.
+      * Built intelligent agents for the Research Office: including an Email Assistant (handling prioritization, information extraction, drafting, and calendar integration) and automated newsletter-generation tools.
+      * Designed LLM-judge pipelines for evaluating QA (correctness, safety, bias) and developed persona-conditioned synthetic data generation systems for scalable, multipersona evaluations.
+
+
+* April 2024 * Jun 2025: AI Engineer
    * Stealth AI Startup | Abu Dhabi, UAE
 ===
       * Trained a LLM end to end from scratch for advancing SOTA: from data curation to pre-training to post-training (Supervised Fine-Tuning and Alignment using RLHF) 
@@ -49,7 +98,7 @@ Work experience
       * Tackled multiple challenges in the AI assistant and built components like content moderation and jailbreak attempts flagging to ensure a robust deployed system.
 
 
-* March 2023 - March 2024: Research Associate
+* March 2023 * March 2024: Research Associate
    * G42 Healthcare | Abu Dhabi, UAE
 ===
       * Trained a foundation model from scratch in a novel setting to predict procedures,
@@ -59,19 +108,16 @@ Work experience
       * Orchestrated training dataset (from 10M+ articles) and evaluation of Clinical LLM.
       Outcomes: Med42 released on [HuggingFace](https://huggingface.co/m42-health/med42-70b) and authored [paper](https://arxiv.org/abs/2404.14779).
 
-* Sep 2022- Dec 2022: Research Intern 
+*  2021, 2022 Research Intern 
   * IBM Research | Bangalore, India
 ===
     * Worked on forecasting and handling IT errors in Business Processes: [paper](https://dl.acm.org/doi/10.1145/3632410.3632437)
 
-* May 2021- Dec 2021: Research Intern 
-  * IBM Research | Bangalore, India
-===
     * Research project on building system for Goal Oriented Next Best Action Prediction in Business Processes using Deep Reinforcement Learning. 
     * Submitted [Paper](https://www.researchgate.net/publication/360462271_Goal-Oriented_Next_Best_Activity_Recommendation_using_Reinforcement_Learning}{Preprint) and US. patent (currently in last stage after signing)
 
 
-* May 2020 - March 2023: Researcher
+* May 2020 * March 2023: Researcher
   * CVIT, IIIT Hyderabad
 ===
       * Worked on ML Interpretability applied in Computer Vision and Graphics under Professor P.J. Narayan. 
@@ -85,13 +131,13 @@ Work experience
       * Also worked in Neural rendering, ray tracing and 3D reconstruction of objects and scenes. Studied NeRF(Neural Radiance fields) line of work. Implemented and reproduced results of several papers in neural rendering.
 
 
-* Jan 2020- Jan 2021: Independent Study Researcher
+* Jan 2020* Jan 2021: Independent Study Researcher
   * CVIT, IIIT Hyderabad
 ===
       * Worked on Realistic Human Body Reconstructions and Digital Humans and temporal stability over 3D animations with Professor Avinash Sharma.
 
 
-* June - July 2020: Crew Member and Mentee
+* June * July 2020: Crew Member and Mentee
   * Microsoft | Mars Colonization Program
 ===
       * Worked on Automated mars rover web game. 
@@ -101,15 +147,15 @@ Work experience
  
 
 
-* Jan 2020- May 2020: Applied Deep Learning and Software Engineering Intern
+* Jan 2020* May 2020: Applied Deep Learning and Software Engineering Intern
   * Scrapshut | Hyderabad
 ===
       * Developed a web-app using Angular and Django where users can check genuineness of any site by providing it’s URL and get other user’s reviews along with predictions by DL model. 
-      * Trained various Deep Learning models like LSTM, XGBoost and CNN on three datasets- Kaggle fake news net, Kaggle: getting real about fake news and Kaggle fake news Prediction. 
+      * Trained various Deep Learning models like LSTM, XGBoost and CNN on three datasets* Kaggle fake news net, Kaggle: getting real about fake news and Kaggle fake news Prediction. 
       * Also trained a passive aggressive classifier (online learning algorithm) and incorporated user-rated scraped reviews for real time prediction.
 
 
-* Nov 2019- Jan 2020: RL Researcher
+* Nov 2019* Jan 2020: RL Researcher
   * Robotics Research Centre 
 ===
       * Worked on several SOTA RL algorithms in Robotics and Control under Professor Madhav Krishna.
