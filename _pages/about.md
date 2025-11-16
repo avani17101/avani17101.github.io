@@ -13,7 +13,6 @@ Welcome to my web-page.
 
 I am an AI Engineer at MBZUAI, working on multi-agent learning, LLM evaluation, and agentic systems. My research interests lie at the intersection of machine learning interpretability, reinforcement learning, and natural language processing.
 
-News
 ======
 
 ## News
