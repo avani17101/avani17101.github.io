@@ -11,39 +11,7 @@ Hi, there!
 This is Avani Gupta.
 Welcome to my web-page.
 
-**A brief Introduction of my journey so far:**
-
-I am currently an **AI Engineer at MBZUAI**, where I work on  
-**multi-agent social learning**, **LLM evaluation**, and **agentic systems**.  
-I recently proposed a **new cooperative MARL training paradigm** and desgined evaluation pipelines using LLM-as-judge and persona-conditioned synthetic data generation.
-
-Previously, I worked as an AI Engineer at a **stealth LLM startup**, where I:
-
-* trained **small LLMs end-to-end** (tokenizer → pretraining → SFT → RLHF),  
-* proposed a **novel MLA+GQA hybrid attention mechanism** for long-context reasoning,  
-* and built/deployed multiple agents (RAG, SQL, audio-analysis, safety systems) used by **3,500+ users**.
-
-Before that, I was a **Research Associate at G42 Healthcare**, where I helped train a **clinical foundation model** for patient trajectory prediction and contributed data pipelines for **Med42**, a 70B medical LLM now available on HuggingFace.
-
-My research background is rooted in **ML interpretability**.  
-At **CVIT, IIIT Hyderabad**, I developed:
-
-* the **concept-sensitivity loss** (higher-order gradients) for shaping model representations — published at **NeurIPS 2023**,  
-* a **sensitivity-based disentanglement metric** for intrinsic image decomposition — **Oral + Best Paper Award**, **ICVGIP 2022**,  
-* and guided follow-up student-led extensions to **backdoor defense (ICCV 2025)** and **controllable style transfer (ICVGIP 2025)**.
-
-I also explored **NeRF, 3D reconstruction, and human modeling** during my early work at CVIT.
-
-Alongside this, I worked with **IBM Research** on applying RL to dynamic business processes. I developed:
-
-* a **goal-oriented next-best-action system** with custom state/action spaces and DFG-based action masking (leading to a **US patent**, pending grant),  
-* and transformers for modeling anomalous IT events (**CODS-COMAD 2024**).
-
-Across roles, I enjoy working at the intersection of **intuitive idea formation, rigorous modeling, and systems-level execution**, and I value research that is both conceptual and practical.
-
-I have published my work in venues including **NeurIPS, ICCV, ICVGIP, COLING, and CODS-COMAD**, with experience spanning **NLP, RL, interpretability, and computer vision**.
-
-
+I am an AI Engineer at MBZUAI, working on multi-agent learning, LLM evaluation, and agentic systems. My research interests lie at the intersection of machine learning interpretability, reinforcement learning, and natural language processing.
 
 News
 ======
