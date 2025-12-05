@@ -7,13 +7,16 @@ redirect_from:
   * /about/
   * /about.html
 ---
+
+<a href="{{ '/files/Avani_Gupta_Research_Resume.pdf' | relative_url }}" class="btn btn--large" target="_blank">Curriculum Vitae</a>
+
 Hi, there!
 This is Avani Gupta.
 Welcome to my web-page.
 
 **A brief Introduction of my journey so far:**
 
-I am currently an **AI Engineer at MBZUAI**, where I work on  
+I am currently an **AI Engineer at Reesearch Office, MBZUAI**, where I work on  
 **multi-agent social learning**, **LLM evaluation**, and **agentic systems**.  
 I recently proposed a **new cooperative MARL training paradigm** and desgined evaluation pipelines using LLM-as-judge and persona-conditioned synthetic data generation.
 
@@ -43,7 +46,23 @@ Across roles, I enjoy working at the intersection of **intuitive idea formation,
 
 I have published my work in venues including **NeurIPS, ICCV, ICVGIP, COLING, and CODS-COMAD**, with experience spanning **NLP, RL, interpretability, and computer vision**.
 
+---
 
+## Research Vision
+
+My research addresses a fundamental question: **How can we build AI models that learn efficiently, generalize robustly, and align with human values?**
+
+Humans learn quickly from limited samples, generalize across domains, and reason through abstract, interpretable concepts. In contrast, current ML models require massive data, exhibit spurious correlations, struggle to generalize, and lack interpretability. I draw inspiration from human learning to address these limitations through three interconnected research directions:
+
+**Concept-Based Interpretable Learning**: Humans think in abstract concepts (color, shape, texture) that enable sample-efficient learning. I developed concept-sensitivity metrics and concept loss functions that allow models to learn, evaluate, and control abstract knowledge using just a few concept examples. This work enables data-efficient alignment of foundation models by adjusting their latent representations toward desired conceptual directions.
+
+**Collective Multi-Agent Learning**: Inspired by how humans learn from peers' successes and failures, I'm exploring collective survival-based multi-agent reinforcement learning. Agents learning from both successful and failed peers achieve better performance than those trained on only successful ones, suggesting peer learning as a mechanism for alignment without labeled preferences.
+
+**Foundation Model Training & Alignment**: Through end-to-end LLM development (pre-training, fine-tuning, RLHF), I've observed persistent issues with hallucinations, biases, and deceptive reasoning. My work on concept loss and peer learning offers promising directions for aligning foundation models more efficiently and transparently.
+
+**Unified Goal**: I aim to translate human-like abstraction and collective learning into autonomous agents, building AI systems that are efficient, interpretable, and aligned—systems that learn from little data, generalize across domains, and reason through concepts we can understand and control.
+
+---
 
 News
 ======
