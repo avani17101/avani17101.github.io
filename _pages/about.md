@@ -21,9 +21,6 @@ Here is my CV if you need one:
 
 ---
 
-News
-======
-
 ## News
 
 ### 2025
