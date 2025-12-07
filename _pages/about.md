@@ -8,59 +8,16 @@ redirect_from:
   * /about.html
 ---
 
-<a href="{{ '/files/Avani_Gupta_Research_Resume.pdf' | relative_url }}" class="btn btn--large" target="_blank">Curriculum Vitae</a>
 
 Hi, there!
-This is Avani Gupta.
-Welcome to my web-page.
+This is Avani Gupta. 
 
-**A brief Introduction of my journey so far:**
+I take inspiration from human learning to build autonomous systems. 
+My research aim is to build efficient (both sample-efficient and generalizable), interpretable, and aligned autonomous systems.
+I love badminton, fine-arts, and series.
 
-I am currently an **AI Engineer at Reesearch Office, MBZUAI**, where I work on  
-**multi-agent social learning**, **LLM evaluation**, and **agentic systems**.  
-I recently proposed a **new cooperative MARL training paradigm** and desgined evaluation pipelines using LLM-as-judge and persona-conditioned synthetic data generation.
-
-Previously, I worked as an AI Engineer at a **stealth LLM startup**, where I:
-
-* trained **small LLMs end-to-end** (tokenizer → pretraining → SFT → RLHF),  
-* proposed a **novel MLA+GQA hybrid attention mechanism** for long-context reasoning,  
-* and built/deployed multiple agents (RAG, SQL, audio-analysis, safety systems) used by **3,500+ users**.
-
-Before that, I was a **Research Associate at G42 Healthcare**, where I helped train a **clinical foundation model** for patient trajectory prediction and contributed data pipelines for **Med42**, a 70B medical LLM now available on HuggingFace.
-
-My research background is rooted in **ML interpretability**.  
-At **CVIT, IIIT Hyderabad**, I developed:
-
-* the **concept-sensitivity loss** (higher-order gradients) for shaping model representations — published at **NeurIPS 2023**,  
-* a **sensitivity-based disentanglement metric** for intrinsic image decomposition — **Oral + Best Paper Award**, **ICVGIP 2022**,  
-* and guided follow-up student-led extensions to **backdoor defense (ICCV 2025)** and **controllable style transfer (ICVGIP 2025)**.
-
-I also explored **NeRF, 3D reconstruction, and human modeling** during my early work at CVIT.
-
-Alongside this, I worked with **IBM Research** on applying RL to dynamic business processes. I developed:
-
-* a **goal-oriented next-best-action system** with custom state/action spaces and DFG-based action masking (leading to a **US patent**, pending grant),  
-* and transformers for modeling anomalous IT events (**CODS-COMAD 2024**).
-
-Across roles, I enjoy working at the intersection of **intuitive idea formation, rigorous modeling, and systems-level execution**, and I value research that is both conceptual and practical.
-
-I have published my work in venues including **NeurIPS, ICCV, ICVGIP, COLING, and CODS-COMAD**, with experience spanning **NLP, RL, interpretability, and computer vision**.
-
----
-
-## Research Vision
-
-My research addresses a fundamental question: **How can we build AI models that learn efficiently, generalize robustly, and align with human values?**
-
-Humans learn quickly from limited samples, generalize across domains, and reason through abstract, interpretable concepts. In contrast, current ML models require massive data, exhibit spurious correlations, struggle to generalize, and lack interpretability. I draw inspiration from human learning to address these limitations through three interconnected research directions:
-
-**Concept-Based Interpretable Learning**: Humans think in abstract concepts (color, shape, texture) that enable sample-efficient learning. I developed concept-sensitivity metrics and concept loss functions that allow models to learn, evaluate, and control abstract knowledge using just a few concept examples. This work enables data-efficient alignment of foundation models by adjusting their latent representations toward desired conceptual directions.
-
-**Collective Multi-Agent Learning**: Inspired by how humans learn from peers' successes and failures, I'm exploring collective survival-based multi-agent reinforcement learning. Agents learning from both successful and failed peers achieve better performance than those trained on only successful ones, suggesting peer learning as a mechanism for alignment without labeled preferences.
-
-**Foundation Model Training & Alignment**: Through end-to-end LLM development (pre-training, fine-tuning, RLHF), I've observed persistent issues with hallucinations, biases, and deceptive reasoning. My work on concept loss and peer learning offers promising directions for aligning foundation models more efficiently and transparently.
-
-**Unified Goal**: I aim to translate human-like abstraction and collective learning into autonomous agents, building AI systems that are efficient, interpretable, and aligned—systems that learn from little data, generalize across domains, and reason through concepts we can understand and control.
+Here is my CV if you need one:
+<a href="{{ '/files/Avani_Gupta_Research_Resume.pdf' | relative_url }}" class="btn btn--large" target="_blank">Curriculum Vitae</a>
 
 ---
 
@@ -93,7 +50,6 @@ News
 
 
   
-
 Work experience
 ======
 
@@ -150,10 +106,12 @@ Work experience
       * Also worked in Neural rendering, ray tracing and 3D reconstruction of objects and scenes. Studied NeRF(Neural Radiance fields) line of work. Implemented and reproduced results of several papers in neural rendering.
 
 
+
 * Jan 2020* Jan 2021: Independent Study Researcher
   * CVIT, IIIT Hyderabad
 ===
-      * Worked on Realistic Human Body Reconstructions and Digital Humans and temporal stability over 3D animations with Professor Avinash Sharma.
+      * Worked with Prof. Avinash Sharma on Realistic 3D Human reconstruction from images to create realistic digital avatars (PeelHuman)
+      * Worked on animation/video generation human 3D human avatars with an aim to ensure temporal consistency and good transitions in loose clothing.
 
 
 * June * July 2020: Crew Member and Mentee
@@ -177,9 +135,9 @@ Work experience
 * Nov 2019* Jan 2020: RL Researcher
   * Robotics Research Centre 
 ===
-      * Worked on several SOTA RL algorithms in Robotics and Control under Professor Madhav Krishna.
-      * Implemented algorithms from Monte-Carlo to PPO, TRPO, DDPG etc from scratch. 
-      * Also used open AI gym, RLib, Vowpall wabbit and engines like Gazebo, Mojuco for control in robotics.
+      * Worked with Professor Madhav Krishna to explore several SOTA RL algorithms in Robotics and Control.
+      * Implemented algorithms like PPO, TRPO, DDPG etc from scratch. 
+      * Also explored open AI gym, RLib, Vowpall wabbit and engines like Gazebo, Mojuco for control in robotics.
 
 
 
