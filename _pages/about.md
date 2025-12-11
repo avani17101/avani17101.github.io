@@ -9,12 +9,13 @@ redirect_from:
 ---
 
 
-Hi, there!
-This is Avani Gupta. 
+Hi, I’m Avani Gupta.
 
-I take inspiration from human learning to build autonomous systems. 
-My research aim is to build efficient (both sample-efficient and generalizable), interpretable, and aligned autonomous systems.
-I love badminton, fine-arts, and series.
+I take inspiration from human learning to build autonomous systems. My research aim is to build efficient (both sample-efficient and generalizable), interpretable, and aligned autonomous systems. I want to solve problems to make this world a better place for everyone and advance human understanding and knowledge.
+
+
+ Apart from work, I am a fitness freak and try to do regular gym. In my free time, you would find me reading philosophy, scientific studies, and watching documentaries/series. I used to draw and paint as well earlier [will post my works soon].
+
 
 Here is my CV if you need one:
 <a href="{{ '/files/Avani_Gupta_Research_Resume.pdf' | relative_url }}" class="btn btn--large" target="_blank">Curriculum Vitae</a>

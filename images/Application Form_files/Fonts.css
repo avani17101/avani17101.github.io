@@ -1,0 +1,318 @@
+@font-face {
+  font-family: 'Graphik';
+  src: url('../../Public/Fonts/Graphik-Thin-Web.woff2') format('woff2'),
+  url('../../Public/Fonts/Graphik-Thin-Web.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('../../Public/Fonts/Graphik-Thin-Italic-Web.woff2') format('woff2'),
+  url('../../Public/Fonts/Graphik-Thin-Italic-Web.woff') format('woff');
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('../../Public/Fonts/Graphik-Extralight-Web.woff2') format('woff2'),
+  url('../../Public/Fonts/Graphik-Extralight-Web.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('../../Public/Fonts/Graphik-Extralight-Italic-Web.woff2') format('woff2'),
+  url('../../Public/Fonts/Graphik-Extralight-Italic-Web.woff') format('woff');
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('../../Public/Fonts/Graphik-Light-Web.woff2') format('woff2'),
+  url('../../Public/Fonts/Graphik-Light-Web.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('../../Public/Fonts/Graphik-Light-Italic-Web.woff2') format('woff2'),
+  url('../../Public/Fonts/Graphik-Light-Italic-Web.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('../../Public/Fonts/Graphik-Regular-Web.woff2') format('woff2'),
+  url('../../Public/Fonts/Graphik-Regular-Web.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('../../Public/Fonts/Graphik-Regular-Italic-Web.woff2') format('woff2'),
+  url('../../Public/Fonts/Graphik-Regular-Italic-Web.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('../../Public/Fonts/Graphik-Medium-Web.woff2') format('woff2'),
+  url('../../Public/Fonts/Graphik-Medium-Web.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('../../Public/Fonts/Graphik-Medium-Italic-Web.woff2') format('woff2'),
+  url('../../Public/Fonts/Graphik-Medium-Italic-Web.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('../../Public/Fonts/Graphik-Semibold-Web.woff2') format('woff2'),
+  url('../../Public/Fonts/Graphik-Semibold-Web.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('../../Public/Fonts/Graphik-Semibold-Italic-Web.woff2') format('woff2'),
+  url('../../Public/Fonts/Graphik-Semibold-Italic-Web.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('../../Public/Fonts/Graphik-Bold-Web.woff2') format('woff2'),
+  url('../../Public/Fonts/Graphik-Bold-Web.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('../../Public/Fonts/Graphik-Bold-Italic-Web.woff2') format('woff2'),
+  url('../../Public/Fonts/Graphik-Bold-Italic-Web.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('../../Public/Fonts/Graphik-Super-Web.woff2') format('woff2'),
+  url('../../Public/Fonts/Graphik-Super-Web.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('../../Public/Fonts/Graphik-Super-Italic-Web.woff2') format('woff2'),
+  url('../../Public/Fonts/Graphik-Super-Italic-Web.woff') format('woff');
+  font-weight: 800;
+  font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('../../Public/Fonts/Graphik-Black-Web.woff2') format('woff2'),
+  url('../../Public/Fonts/Graphik-Black-Web.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('../../Public/Fonts/Graphik-Black-Italic-Web.woff2') format('woff2'),
+  url('../../Public/Fonts/Graphik-Black-Italic-Web.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+}
+
+
+@font-face {
+  font-family: "Object Sans";
+  src: url("../Fonts/PPObjectSans-Regular.woff2") format('woff2'),
+  url("../Fonts/PPObjectSans-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Object Sans";
+  src: url("../Fonts/PPObjectSans-Slanted.woff2") format('woff2'),
+  url("../Fonts/PPObjectSans-Slanted.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Object Sans";
+  src: url("../Fonts/PPObjectSans-Bold.woff2") format('woff2'),
+  url("../Fonts/PPObjectSans-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Object Sans";
+  src: url("../Fonts/PPObjectSans-BoldSlanted.woff2") format('woff2'),
+  url("../Fonts/PPObjectSans-BoldSlanted.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* Figtree */
+@font-face {
+    font-family: "Figtree";
+    src:
+        url("../Fonts/Figtree-Light.woff2") format("woff2"),
+        url("../Fonts/Figtree-Light.woff") format("woff");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Figtree";
+    src:
+        url("../Fonts/Figtree-Regular.woff2") format("woff2"),
+        url("../Fonts/Figtree-Regular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Figtree";
+    src:
+        url("../Fonts/Figtree-SemiBold.woff2") format("woff2"),
+        url("../Fonts/Figtree-SemiBold.woff") format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Figtree";
+    src:
+        url("../Fonts/Figtree-SemiBold.woff2") format("woff2"),
+        url("../Fonts/Figtree-SemiBold.woff") format("woff");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Figtree";
+    src:
+        url("../Fonts/Figtree-Bold.woff2") format("woff2"),
+        url("../Fonts/Figtree-Bold.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Figtree";
+    src:
+        url("../Fonts/Figtree-ExtraBold.woff2") format("woff2"),
+        url("../Fonts/Figtree-ExtraBold.woff") format("woff");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Figtree";
+    src:
+        url("../Fonts/Figtree-Black.woff2") format("woff2"),
+        url("../Fonts/Figtree-Black.woff") format("woff");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Figtree";
+    src:
+        url("../Fonts/Figtree-LightItalic.woff2") format("woff2"),
+        url("../Fonts/Figtree-LightItalic.woff") format("woff");
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Figtree";
+    src:
+        url("../Fonts/Figtree-Italic.woff2") format("woff2"),
+        url("../Fonts/Figtree-Italic.woff") format("woff");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Figtree";
+    src:
+        url("../Fonts/Figtree-MediumItalic.woff2") format("woff2"),
+        url("../Fonts/Figtree-MediumItalic.woff") format("woff");
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Figtree";
+    src:
+            url("../Fonts/Figtree-SemiBoldItalic.woff2") format("woff2"),
+            url("../Fonts/Figtree-SemiBoldItalic.woff") format("woff");
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Figtree";
+    src:
+        url("../Fonts/Figtree-BoldItalic.woff2") format("woff2"),
+        url("../Fonts/Figtree-BoldItalic.woff") format("woff");
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Figtree";
+    src:
+        url("../Fonts/Figtree-ExtraBoldItalic.woff2") format("woff2"),
+        url("../Fonts/Figtree-ExtraBoldItalic.woff") format("woff");
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Figtree";
+    src:
+        url("../Fonts/Figtree-BlackItalic.woff2") format("woff2"),
+        url("../Fonts/Figtree-BlackItalic.woff") format("woff");
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
