@@ -31,8 +31,6 @@ Here is my CV if you need one:
 * **January 2025** — Work on **Building Trust in Clinical LLMs** accepted to *EMNLP 2025*.
 
 ### 2024
-
-* **December 2024** — Presented work on multi-agent learning and evaluation pipelines at *MBZUAI Research Office*.
 * **February 2024** — Paper **Predicting Business Process Events Under Anomalous IT Errors** published at *CODS-COMAD 2024*.
 * **January 2024** — Contributed to release of **Med42 (70B Clinical LLM)** on HuggingFace.
 
