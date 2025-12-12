@@ -26,12 +26,12 @@ Here is my CV if you need one:
 
 ### 2025
 * **October 2025** — Paper on **Controllable Concept-Guided Style Transfer** accepted to *ICVGIP 2025*.
+* **September 2025** — Work on **Building Trust in Clinical LLMs** accepted to *EMNLP 2025*.
 * **July 2025** — Paper on **Prototype-Guided Backdoor Defense** accepted to *ICCV 2025*.
-* **January 2025** — Work on **Building Trust in Clinical LLMs** accepted to *EMNLP 2025*.
 
 ### 2024
-* **February 2024** — Paper **Predicting Business Process Events Under Anomalous IT Errors** published at *CODS-COMAD 2024*.
-* **January 2024** — Contributed to release of **Med42 (70B Clinical LLM)** on HuggingFace.
+* **January 2024** — Paper **Predicting Business Process Events Under Anomalous IT Errors** published at *CODS-COMAD 2024*.
+* **December 2023** — Contributed to release of **Med42 (70B Clinical LLM)** on HuggingFace.
 
 ### 2023
 
