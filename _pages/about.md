@@ -36,7 +36,7 @@ Here is my CV if you need one:
 ### 2023
 
 * **September 2023** — Paper **Concept Distillation: Leveraging Human-Centered Explanations** accepted to *NeurIPS 2023*.
-* **September 2023** — Successfully defended M.S. Thesis at IIIT Hyderabad.
+* **September 2023** — Successfully defended my Master's Thesis at IIIT Hyderabad.
 
 ### 2022
 
