@@ -25,9 +25,8 @@ Here is my CV if you need one:
 ## News
 
 ### 2025
-
-* **March 2025** — Paper on **Prototype-Guided Backdoor Defense** accepted to *ICCV 2025*.
-* **February 2025** — Paper on **Controllable Concept-Guided Style Transfer** accepted to *ICVGIP 2025*.
+* **October 2025** — Paper on **Controllable Concept-Guided Style Transfer** accepted to *ICVGIP 2025*.
+* **July 2025** — Paper on **Prototype-Guided Backdoor Defense** accepted to *ICCV 2025*.
 * **January 2025** — Work on **Building Trust in Clinical LLMs** accepted to *EMNLP 2025*.
 
 ### 2024
