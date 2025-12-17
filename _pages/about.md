@@ -59,7 +59,7 @@ Currently, I am working at MBZUAI, Abu Dhabi, as an AI Engineer, where I transla
 Some of my old work-ex which might been lost in my CV due to space-constraints:
 
 
-* June * July 2020: Crew Member and Mentee
+* June - July 2020: Crew Member and Mentee
   * Microsoft | Mars Colonization Program
 ===
       * Worked on Automated mars rover web game. 
@@ -69,7 +69,7 @@ Some of my old work-ex which might been lost in my CV due to space-constraints:
  
 
 
-* Jan 2020* May 2020: Applied Deep Learning and Software Engineering Intern
+* Jan 2020 - May 2020: Applied Deep Learning and Software Engineering Intern
   * Scrapshut | Hyderabad
 ===
       * Developed a web-app using Angular and Django where users can check genuineness of any site by providing it’s URL and get other user’s reviews along with predictions by DL model. 
@@ -77,7 +77,7 @@ Some of my old work-ex which might been lost in my CV due to space-constraints:
       * Also trained a passive aggressive classifier (online learning algorithm) and incorporated user-rated scraped reviews for real time prediction.
 
 
-* Nov 2019* Jan 2020: RL Researcher
+* Nov 2019 - Jan 2020: RL Researcher
   * Robotics Research Centre 
 ===
       * Worked with Professor Madhav Krishna to explore several SOTA RL algorithms in Robotics and Control.
