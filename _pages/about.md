@@ -81,9 +81,7 @@ Some of my old work-ex which might been lost in my CV due to space-constraints:
   * Robotics Research Centre 
 ===
       * Worked with Professor Madhav Krishna to explore several SOTA RL algorithms in Robotics and Control.
-      * Implemented algorithms like PPO, TRPO, DDPG etc from scratch. 
-      * Also explored open AI gym, RLib, Vowpall wabbit and engines like Gazebo, Mojuco for control in robotics.
-
+     
 
 
 
