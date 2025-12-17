@@ -14,7 +14,7 @@ Hi, I’m Avani Gupta.
 I take inspiration from human learning to build autonomous systems. My research aim is to build efficient (both sample-efficient and generalizable), interpretable, and aligned autonomous systems. I want to solve problems to make this world a better place for everyone and advance human understanding and knowledge. To this end, I look to contribute to the development of transparent, interpretable, and safe AI to ensure we move towards a harmonious future.
 
  
-I look to contribute to this beatiful world in the best ways I can. Apart from work, I am a fitness freak and try to do regular gym. In my free time, you would find me reading philosophy, scientific studies, and watching documentaries/series. I get "in the zone" or flow state while jotting new research ideas, performing kathak (in my room currently :p), and while drawing and painting.
+I aim to contribute to this beatiful world in the best ways I can. Apart from work, I am a fitness freak and try to do regular gym. In my free time, you would find me reading philosophy, scientific studies, and watching documentaries/series. I get "in the zone" or flow state while jotting new research ideas, performing kathak (in my room currently :p), and while drawing and painting.
 
 
 Here is my CV if you need one:
