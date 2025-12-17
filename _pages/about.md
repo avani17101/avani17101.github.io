@@ -81,6 +81,11 @@ Some of my old work-ex which might been lost in my CV due to space-constraints:
   * Robotics Research Centre 
 ===
       * Worked with Professor Madhav Krishna to explore several SOTA RL algorithms in Robotics and Control.
+   
+* Aug 2018 - May 2019: Independent Student Researcher
+  * IIIT Naya Raipur
+===
+      * Worked with Professor N. Srinivas Naik on fake-news detection research which resulted in a poster in HiPC 2019.
      
 
 
