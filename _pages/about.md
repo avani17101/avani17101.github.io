@@ -55,6 +55,12 @@ Currently, I am working at MBZUAI, Abu Dhabi, as an AI Engineer, where I transla
 * **October 2022** — Paper **CitRet: Cited Text Span Retrieval** accepted to *COLING 2022*.
 
 
+<!-- Unable to include 'publications.html' because the file does not exist in the _includes directory. Please create the file or list your publications manually below. -->
+
+<!-- Example Publications Section -->
+## Publications
+
+*Please See [Google Scholar](https://scholar.google.com/citations?hl=en&user=8yBoW2oAAAAJ) or [my publications page](/publications/) for a full, up-to-date list.*
   
 <details class="scroll-fade-in">
 <summary><strong>Some of my old work-ex which might been lost in my CV due to space-constraints:</strong></summary>
@@ -111,12 +117,6 @@ Currently, I am working at MBZUAI, Abu Dhabi, as an AI Engineer, where I transla
 
 
 
-<!-- Unable to include 'publications.html' because the file does not exist in the _includes directory. Please create the file or list your publications manually below. -->
-
-<!-- Example Publications Section -->
-## Publications
-
-*Please See [Google Scholar](https://scholar.google.com/citations?hl=en&user=8yBoW2oAAAAJ) or [my publications page](/publications/) for a full, up-to-date list.*
 
 
 
