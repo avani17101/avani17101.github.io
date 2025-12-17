@@ -54,8 +54,8 @@ Currently, I am working at MBZUAI, Abu Dhabi, as an AI Engineer, where I transla
 
 
   
-Some of my old works which might have got lost in my resume (due to space constraints)
-======
+Some of my old work-ex which might have got lost in my CV due to space-constraints
+==
 
 
 * June * July 2020: Crew Member and Mentee
