@@ -20,7 +20,7 @@ I look to contribute to this beatiful world in the best ways I can. Apart from w
 Here is my CV if you need one:
 <a href="{{ '/files/Avani_Gupta_Research_Resume.pdf' | relative_url }}" class="btn btn--large" target="_blank">Curriculum Vitae</a>
 
-Here is a summary on my work experiences and research so far:
+Here is a summary of my work experiences and research so far:
 
 
 I officially started my research journey from the Centre for Visual Information Technology (CVIT), where I was fortunate to work with Prof. P. J. Narayanan on interpretable-human-centered concepts for model evaluation and training. 
