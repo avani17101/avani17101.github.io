@@ -56,37 +56,67 @@ Currently, I am working at MBZUAI, Abu Dhabi, as an AI Engineer, where I transla
 
 
   
-Some of my old work-ex which might been lost in my CV due to space-constraints:
+<details class="scroll-fade-in">
+<summary><strong>Some of my old work-ex which might been lost in my CV due to space-constraints:</strong></summary>
 
+<ul>
+<li><strong>June - July 2020: Crew Member and Mentee</strong>
+  <ul>
+  <li>Microsoft | Mars Colonization Program
+      <ul>
+      <li>Worked on Automated mars rover web game.</li>
+      <li>Developed the game in Agent Centric way.</li>
+      <li>Used shortest path-finding algorithms like Collaborative Learning Agents, A*, Dijkstra, Best first search, IDA*, Jump-Point Finders and their bi-directional forms to make the AI rover navigate the mars.</li>
+      <li>Applied Travelling salesmen algorithm and made the AI agent render multiple destinations in the shortest path avoiding all obstacles. Built using Object Oriented programming concepts. Used Jquery, Rafael.js, and HTML, CSS and javascript.</li>
+      </ul>
+  </li>
+  </ul>
+</li>
 
-* June - July 2020: Crew Member and Mentee
-  * Microsoft | Mars Colonization Program
-===
-      * Worked on Automated mars rover web game. 
-      * Developed the game in Agent Centric way. 
-      * Used shortest path-finding algorithms like Collaborative Learning Agents, A*, Dijkstra, Best first search, IDA*, Jump-Point Finders and their bi-directional forms to make the AI rover navigate the mars. 
-      * Applied Travelling salesmen algorithm and made the AI agent render multiple destinations in the shortest path avoiding all obstacles. *Built using Object Oriented programming cocepts. Used Jquery, Rafael.js, and HTML, CSS and javascript.
- 
+<li><strong>Jan 2020 - May 2020: Applied Deep Learning and Software Engineering Intern</strong>
+  <ul>
+  <li>Scrapshut | Hyderabad
+      <ul>
+      <li>Developed a web-app using Angular and Django where users can check genuineness of any site by providing it's URL and get other user's reviews along with predictions by DL model.</li>
+      <li>Trained various Deep Learning models like LSTM, XGBoost and CNN on three datasets: Kaggle fake news net, Kaggle: getting real about fake news and Kaggle fake news Prediction.</li>
+      <li>Also trained a passive aggressive classifier (online learning algorithm) and incorporated user-rated scraped reviews for real time prediction.</li>
+      </ul>
+  </li>
+  </ul>
+</li>
 
+<li><strong>Nov 2019 - Jan 2020: RL Researcher</strong>
+  <ul>
+  <li>Robotics Research Centre
+      <ul>
+      <li>Worked with Professor Madhav Krishna to explore several SOTA RL algorithms in Robotics and Control.</li>
+      </ul>
+  </li>
+  </ul>
+</li>
 
-* Jan 2020 - May 2020: Applied Deep Learning and Software Engineering Intern
-  * Scrapshut | Hyderabad
-===
-      * Developed a web-app using Angular and Django where users can check genuineness of any site by providing it’s URL and get other user’s reviews along with predictions by DL model. 
-      * Trained various Deep Learning models like LSTM, XGBoost and CNN on three datasets* Kaggle fake news net, Kaggle: getting real about fake news and Kaggle fake news Prediction. 
-      * Also trained a passive aggressive classifier (online learning algorithm) and incorporated user-rated scraped reviews for real time prediction.
+<li><strong>Aug 2018 - May 2019: Independent Student Researcher</strong>
+  <ul>
+  <li>IIIT Naya Raipur
+      <ul>
+      <li>Worked with Professor N. Srinivas Naik on fake-news detection research which resulted in a poster in HiPC 2019.</li>
+      </ul>
+  </li>
+  </ul>
+</li>
+</ul>
 
-
-* Nov 2019 - Jan 2020: RL Researcher
-  * Robotics Research Centre 
-===
-      * Worked with Professor Madhav Krishna to explore several SOTA RL algorithms in Robotics and Control.
-   
-* Aug 2018 - May 2019: Independent Student Researcher
-  * IIIT Naya Raipur
-===
-      * Worked with Professor N. Srinivas Naik on fake-news detection research which resulted in a poster in HiPC 2019.
+</details>
      
+
+
+
+<!-- Unable to include 'publications.html' because the file does not exist in the _includes directory. Please create the file or list your publications manually below. -->
+
+<!-- Example Publications Section -->
+## Publications
+
+*Please See [Google Scholar](https://scholar.google.com/citations?hl=en&user=8yBoW2oAAAAJ) or [my publications page](/publications/) for a full, up-to-date list.*
 
 
 

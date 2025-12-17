@@ -399,3 +399,65 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   Collapsible Details/Summary
+   ========================================================================== */
+
+details {
+  margin: 1.5em 0;
+  padding: 0.5em 0;
+  border-top: 1px solid $border-color;
+  border-bottom: 1px solid $border-color;
+
+  summary {
+    cursor: pointer;
+    padding: 0.75em 0;
+    font-size: $type-size-5;
+    font-weight: 600;
+    color: $text-color;
+    list-style: none;
+    user-select: none;
+    -webkit-user-select: none;
+    transition: color 0.2s ease;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::before {
+      content: "▶ ";
+      display: inline-block;
+      margin-right: 0.5em;
+      transition: transform 0.2s ease;
+      color: $link-color;
+    }
+
+    &:hover {
+      color: $link-color;
+    }
+  }
+
+  &[open] {
+    summary {
+      margin-bottom: 1em;
+      padding-bottom: 0.5em;
+      border-bottom: 1px solid $border-color;
+
+      &::before {
+        transform: rotate(90deg);
+      }
+    }
+  }
+
+  > *:not(summary) {
+    margin-top: 1em;
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  ul, ol {
+    margin-left: 1.5em;
+    padding-left: 0.5em;
+  }
+}
