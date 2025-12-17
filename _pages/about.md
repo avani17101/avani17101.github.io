@@ -21,6 +21,8 @@ Here is my CV if you need one:
 <a href="{{ '/files/Avani_Gupta_Research_Resume.pdf' | relative_url }}" class="btn btn--large" target="_blank">Curriculum Vitae</a>
 
 Here is a summary on my work experiences and research so far:
+
+
 I officially started my research journey from the Centre for Visual Information Technology (CVIT), where I was fortunate to work with Prof. P. J. Narayanan on interpretable-human-centered concepts for model evaluation and training. 
 
 I was also fortunate to work with Dr. Renuka Sindhgatta on real-world problems in business process automations during my internships at IBM Research. I combined my theoretical knowledge of reinforcement learning and interpretability to model next-best-action for business processes involving KPIs optimisations and organisational processes error handling. 
