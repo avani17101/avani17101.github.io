@@ -11,14 +11,23 @@ redirect_from:
 
 Hi, I’m Avani Gupta.
 
-I take inspiration from human learning to build autonomous systems. My research aim is to build efficient (both sample-efficient and generalizable), interpretable, and aligned autonomous systems. I want to solve problems to make this world a better place for everyone and advance human understanding and knowledge.
+I take inspiration from human learning to build autonomous systems. My research aim is to build efficient (both sample-efficient and generalizable), interpretable, and aligned autonomous systems. I want to solve problems to make this world a better place for everyone and advance human understanding and knowledge. To this end, I look to contribute to the development of transparent, interpretable, and safe AI to ensure we move towards a harmonious future.
 
-
- Apart from work, I am a fitness freak and try to do regular gym. In my free time, you would find me reading philosophy, scientific studies, and watching documentaries/series. I used to draw and paint as well earlier [will post my works soon].
+ 
+I look to contribute to this beatiful world in the best ways I can. Apart from work, I am a fitness freak and try to do regular gym. In my free time, you would find me reading philosophy, scientific studies, and watching documentaries/series. I get "in the zone" or flow state while jotting new research ideas, performing kathak (in my room currently :p), and while drawing and painting.
 
 
 Here is my CV if you need one:
 <a href="{{ '/files/Avani_Gupta_Research_Resume.pdf' | relative_url }}" class="btn btn--large" target="_blank">Curriculum Vitae</a>
+
+Here is a summary on my work experiences and research so far:
+I officially started my research journey from the Centre for Visual Information Technology (CVIT), where I was fortunate to work with Prof. P. J. Narayanan on interpretable-human-centered concepts for model evaluation and training. 
+
+I was also fortunate to work with Dr. Renuka Sindhgatta on real-world problems in business process automations during my internships at IBM Research. I combined my theoretical knowledge of reinforcement learning and interpretability to model next-best-action for business processes involving KPIs optimisations and organisational processes error handling. 
+
+In my industry research roles, I worked on the full LLM training lifecycle in the clinical domain and code/tools-specific LLMs. I emphasised transparency and trust in my works: from analysing the patient embeddings of my trained foundation models for clinical coherence to open-source releases and papers on our work. I am also grateful to have been given the opportunity to work on real-world problems involving AI Assistants in several use cases, like information retrieval, marketing content generation, and voice call analysis. I ensured the safety of my deployed agents with content moderation and jailbreak attempt prevention modules.
+
+Currently, I am working at MBZUAI, Abu Dhabi, as an AI Engineer, where I translate real-world use cases from stakeholders to academic problem statements, bridging my industry experience with academic research rigor. I am interested in continuously improving AI and, at the courtesy of MBZUAI, am working with Prof. Abdalla Swikir on research in multi-agent reinforcement learning, where I aim to induce emergent behaviours for pro-social values in agents. 
 
 ---
 
@@ -45,68 +54,8 @@ Here is my CV if you need one:
 
 
   
-Work experience
+Some of my old works which might have got lost in my resume (due to space constraints)
 ======
-
-* Jun 2025 * Present: MBZUAI — AI Engineer, Research Office  
-    * Abu Dhabi, UAE 
-===
-      * Proposed a novel multi-agent reinforcement learning (MARL) training framework (ongoing).
-      * Bridged real-world industry challenges into research problems; identified and connected with faculty collaborators to integrate robust academic and practical insights.
-      * Built intelligent agents for the Research Office: including an Email Assistant (handling prioritization, information extraction, drafting, and calendar integration) and automated newsletter-generation tools.
-      * Designed LLM-judge pipelines for evaluating QA (correctness, safety, bias) and developed persona-conditioned synthetic data generation systems for scalable, multipersona evaluations.
-
-
-* April 2024 * Jun 2025: AI Engineer
-   * Stealth AI Startup | Abu Dhabi, UAE
-===
-      * Trained a LLM end to end from scratch for advancing SOTA: from data curation to pre-training to post-training (Supervised Fine-Tuning and Alignment using RLHF) 
-      *  Designed LLM with novel attention mechanism, pipelines for data generation.
-      * Built an AI Assistant with various tools including advanced multi-modalretrieval,
-      utilizing RAPTOR for document summaries and self-re-RAG (using LangChain, FastAPI)
-      * Productionized the AI Assistant with Azure OpenAI and Google cloud.
-      * Tackled multiple challenges in the AI assistant and built components like content moderation and jailbreak attempts flagging to ensure a robust deployed system.
-
-
-* March 2023 * March 2024: Research Associate
-   * G42 Healthcare | Abu Dhabi, UAE
-===
-      * Trained a foundation model from scratch in a novel setting to predict procedures,
-      diagnosis and medications for patients given medical history and demographics.
-      * Used it for chronic disease identification, mortality prediction,re-admission prediction
-      and personalised medicine.
-      * Orchestrated training dataset (from 10M+ articles) and evaluation of Clinical LLM.
-      Outcomes: Med42 released on [HuggingFace](https://huggingface.co/m42-health/med42-70b) and authored [paper](https://arxiv.org/abs/2404.14779).
-
-*  2021, 2022 Research Intern 
-  * IBM Research | Bangalore, India
-===
-    * Worked on forecasting and handling IT errors in Business Processes: [paper](https://dl.acm.org/doi/10.1145/3632410.3632437)
-
-    * Research project on building system for Goal Oriented Next Best Action Prediction in Business Processes using Deep Reinforcement Learning. 
-    * Submitted [Paper](https://www.researchgate.net/publication/360462271_Goal-Oriented_Next_Best_Activity_Recommendation_using_Reinforcement_Learning}{Preprint) and US. patent (currently in last stage after signing)
-
-
-* May 2020 * March 2023: Researcher
-  * CVIT, IIIT Hyderabad
-===
-      * Worked on ML Interpretability applied in Computer Vision and Graphics under Professor P.J. Narayan. 
-      * Developed novel interpretability based model evaluation and training methods.
-      * Used human centered abstract concepts for model disentanglement evaluation and
-      finetuning via a proposed loss function.
-      * Concepts helped to align model with human understanding thereby improving model
-      generalization.
-      * Used concepts to debias for complex biases like age in gender classification and induce
-      prior knowledge in a real-world reconstruction problem
-      * Also worked in Neural rendering, ray tracing and 3D reconstruction of objects and scenes. Studied NeRF(Neural Radiance fields) line of work. Implemented and reproduced results of several papers in neural rendering.
-
-
-
-* Jan 2020* Jan 2021: Independent Study Researcher
-  * CVIT, IIIT Hyderabad
-===
-      * Worked with Prof. Avinash Sharma on Realistic 3D Human reconstruction from images to create realistic digital avatars (PeelHuman)
-      * Worked on animation/video generation human 3D human avatars with an aim to ensure temporal consistency and good transitions in loose clothing.
 
 
 * June * July 2020: Crew Member and Mentee
