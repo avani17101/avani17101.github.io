@@ -16,7 +16,7 @@ I draw inspiration from human learning to build AI systems that are efficient (b
 Currently, I am working as an AI Engineer in MBZUAI Research Office, where I translate industry problems into academic research, bridging my industry experience with academic research rigor. I'm working with Prof. Abdalla Swikir on multi-agent reinforcement learning, aiming to induce emergent pro-social behaviors in autonomous agents.
 
 Here is my CV if you need one:
-<a href="{{ '/files/Avani_Gupta_Research_Resume.pdf' | relative_url }}" class="btn btn--large" target="_blank">Curriculum Vitae</a>
+<a href="{{ '/files/Avani_Gupta_CV.pdf' | relative_url }}" class="btn btn--large" target="_blank">Curriculum Vitae</a>
 
 
 Research Journey:
