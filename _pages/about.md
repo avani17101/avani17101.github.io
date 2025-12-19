@@ -33,25 +33,25 @@ Outside work, I maintain an active lifestyle with regular workouts and enjoy rea
 ## News
 
 ### 2025
-* **October 2025** — Paper on **Controllable Concept-Guided Style Transfer** accepted to *ICVGIP 2025*.
-* **September 2025** — Work on **Building Trust in Clinical LLMs** accepted to *EMNLP 2025*.
-* **July 2025** — Paper on **Prototype-Guided Backdoor Defense** accepted to *ICCV 2025*.
+* **October 2025** — Paper titled **CAV Styler: Interpretable & Controllable Style Transfer** accepted to *ICVGIP 2025*.
+* **September 2025** — Work on **Building Trust in Clinical LLMs: Bias Analysis & Dataset Transparency** accepted to *EMNLP 2025*.
+* **July 2025** — Paper on **Prototype Guided Backdoor Defense via Activation Space Manipulation** accepted to *ICCV 2025*.
 
 ### 2024
-* **January 2024** — Paper **Predicting Business Process Events Under Anomalous IT Errors** published at *CODS-COMAD 2024*.
+* **January 2024** — Paper **Predicting Business Process Events in Presence of Anomalous IT Events** published at *CODS-COMAD 2024*.
 * **December 2023** — Contributed to release of **Med42 (70B Clinical LLM)** on HuggingFace.
 
 ### 2023
 
 
 
-* **September 2023** — Paper **Concept Distillation: Leveraging Human-Centered Explanations** accepted to *NeurIPS 2023*.
+* **September 2023** — Paper **Concept Distillation: Leveraging Human-Centered Explanations for Model Improvement** accepted to *NeurIPS 2023*.
 * **September 2023** — Successfully defended my Master's Thesis at IIIT Hyderabad.
 
 ### 2022
 
-* **December 2022** — Received **Best Paper Award** and **Oral Presentation** at *ICVGIP 2022* for work on concept-based disentanglement.
-* **October 2022** — Paper **CitRet: Cited Text Span Retrieval** accepted to *COLING 2022*.
+* **December 2022** — Received **Best Paper Award** and **Oral Presentation** at *ICVGIP 2022* for work titled **Interpreting Intrinsic Image Decomposition using Concept Activations**.
+* **October 2022** — Paper **CitRet: A Hybrid Model for Cited Text Span Retrieval** accepted to *COLING 2022*.
 
 
 <!-- Unable to include 'publications.html' because the file does not exist in the _includes directory. Please create the file or list your publications manually below. -->
