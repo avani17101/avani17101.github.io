@@ -69,7 +69,7 @@ Outside work, I maintain an active lifestyle with regular workouts and enjoy rea
   <ul>
   <li>Microsoft | Menteeship (themed as Mars Colonization Program)
       <ul>
-      <li>Worked on Automated mars rover web game.</li>
+      <li>Worked on Automated mars rover web game [Github](https://github.com/Akshayakayy/Space_Invaders).</li>
       <li>Developed the game in Agent Centric way.</li>
       <li>Used shortest path-finding algorithms like Collaborative Learning Agents, A*, Dijkstra, Best first search, IDA*, Jump-Point Finders and their bi-directional forms to make the AI rover navigate the mars.</li>
       <li>Applied Travelling salesmen algorithm and made the AI agent render multiple destinations in the shortest path avoiding all obstacles. Built using Object Oriented programming concepts. Used Jquery, Rafael.js, and HTML, CSS and javascript.</li>
@@ -82,7 +82,7 @@ Outside work, I maintain an active lifestyle with regular workouts and enjoy rea
   <ul>
   <li>Scrapshut | Hyderabad
       <ul>
-      <li>Developed a web-app using Angular and Django where users can check genuineness of any site by providing it's URL and get other user's reviews along with predictions by DL model.</li>
+      <li>Developed a web-app using Angular and Django where users can check genuineness of any site by providing it's URL and get other user's reviews along with predictions by DL model. <a href='https://github.com/avani17101/Real-Time-Fake-News-Detection-App'>Code</a></li>
       <li>Trained various Deep Learning models like LSTM, XGBoost and CNN on three datasets: Kaggle fake news net, Kaggle: getting real about fake news and Kaggle fake news Prediction.</li>
       <li>Also trained a passive aggressive classifier (online learning algorithm) and incorporated user-rated scraped reviews for real time prediction.</li>
       </ul>
@@ -94,7 +94,7 @@ Outside work, I maintain an active lifestyle with regular workouts and enjoy rea
   <ul>
   <li>Robotics Research Centre
       <ul>
-      <li>Worked with Professor Madhav Krishna to explore several SOTA RL algorithms in Robotics and Control.</li>
+      <li> Explored Rinforcement Learning algorithms in Robotics and Control under Prof. Madhav Krishna.</li>
       </ul>
   </li>
   </ul>
