@@ -65,9 +65,9 @@ Outside work, I maintain an active lifestyle with regular workouts and enjoy rea
 <summary><strong>Earlier work/research experiences (not included in CV due to space constraints) </strong></summary>
 
 <ul>
-<li><strong>June - July 2020: Crew Member and Mentee</strong>
+<li><strong>June - July 2020: Mentee</strong>
   <ul>
-  <li>Microsoft | Mars Colonization Program
+  <li>Microsoft | Menteeship (themed as Mars Colonization Program)
       <ul>
       <li>Worked on Automated mars rover web game.</li>
       <li>Developed the game in Agent Centric way.</li>
