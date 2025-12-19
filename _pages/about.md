@@ -11,25 +11,20 @@ redirect_from:
 
 Hi, I’m Avani Gupta.
 
-I take inspiration from human learning to build autonomous systems. My research aim is to build efficient (both sample-efficient and generalizable), interpretable, and aligned autonomous systems. I want to solve problems to make this world a better place for everyone and advance human understanding and knowledge. To this end, I look to contribute to the development of transparent, interpretable, and safe AI to ensure we move towards a harmonious future.
+I draw inspiration from human learning to build AI systems that are efficient (both sample-efficient and generalizable), interpretable, and aligned. My research explores how abstract conceptual knowledge and social learning, two foundations of human intelligence, can be translated into autonomous agents. 
 
- 
-I aim to contribute to this beatiful world in the best ways I can. Apart from work, I am a fitness freak and try to do regular gym. In my free time, you would find me reading philosophy, scientific studies, and watching documentaries/series. I get "in the zone" or flow state while jotting new research ideas, performing kathak (in my room currently :p), and while drawing and painting.
-
+Currently, I am working as an AI Engineer in MBZUAI Research Office, where I translate industry problems into academic research, bridging my industry experience with academic research rigor. I'm working with Prof. Abdalla Swikir on multi-agent reinforcement learning, aiming to induce emergent pro-social behaviors in autonomous agents.
 
 Here is my CV if you need one:
 <a href="{{ '/files/Avani_Gupta_Research_Resume.pdf' | relative_url }}" class="btn btn--large" target="_blank">Curriculum Vitae</a>
 
-Here is a summary of my work experiences and research so far:
 
+Research Journey:
+I began my research at the Centre for Visual Information Technology (CVIT) where I was fortunate to work with my advisor Prof. P. J. Narayanan on interpretable concept-based learning for model evaluation and training. During my internships at IBM Research, I worked with Dr. Renuka Sindhgatta on business process automation, where I used reinforcement learning to model next-best-action recommendations for complex organizational processes.
+In my industry research roles, I worked across the full LLM training lifecycle in the clinical domain and code/tools-specific LLMs. I emphasised transparency and trust in my works: from analysing the embeddings of my trained foundation models for coherence to open-source releases like Med42 (70B clinical LLM) and papers on our work.
+I also built production AI assistants serving thousands of users, ensuring safety through custom moderation and jailbreak prevention.
 
-I officially started my research journey from the Centre for Visual Information Technology (CVIT), where I was fortunate to work with Prof. P. J. Narayanan on interpretable-human-centered concepts for model evaluation and training. 
-
-I was also fortunate to work with Dr. Renuka Sindhgatta on real-world problems in business process automations during my internships at IBM Research. I combined my theoretical knowledge of reinforcement learning and interpretability to model next-best-action for business processes involving KPIs optimisations and organisational processes error handling. 
-
-In my industry research roles, I worked on the full LLM training lifecycle in the clinical domain and code/tools-specific LLMs. I emphasised transparency and trust in my works: from analysing the patient embeddings of my trained foundation models for clinical coherence to open-source releases and papers on our work. I am also grateful to have been given the opportunity to work on real-world problems involving AI Assistants in several use cases, like information retrieval, marketing content generation, and voice call analysis. I ensured the safety of my deployed agents with content moderation and jailbreak attempt prevention modules.
-
-Currently, I am working at MBZUAI, Abu Dhabi, as an AI Engineer, where I translate real-world use cases from stakeholders to academic problem statements, bridging my industry experience with academic research rigor. I am interested in continuously improving AI and, at the courtesy of MBZUAI, am working with Prof. Abdalla Swikir on research in multi-agent reinforcement learning, where I aim to induce emergent behaviours for pro-social values in agents. 
+Outside of research, I maintain an active lifestyle with regular workouts and enjoy reading philosophy, scientific literature, and watching documentaries. I find flow states (or in the "zone" states) while jotting down new research ideas, practicing Kathak, and creating fine-arts (like sketching and drawing).
 
 ---
 
@@ -45,6 +40,8 @@ Currently, I am working at MBZUAI, Abu Dhabi, as an AI Engineer, where I transla
 * **December 2023** — Contributed to release of **Med42 (70B Clinical LLM)** on HuggingFace.
 
 ### 2023
+
+
 
 * **September 2023** — Paper **Concept Distillation: Leveraging Human-Centered Explanations** accepted to *NeurIPS 2023*.
 * **September 2023** — Successfully defended my Master's Thesis at IIIT Hyderabad.
@@ -63,7 +60,7 @@ Currently, I am working at MBZUAI, Abu Dhabi, as an AI Engineer, where I transla
 *Please See [Google Scholar](https://scholar.google.com/citations?hl=en&user=8yBoW2oAAAAJ) or [my publications page](/publications/) for a full, up-to-date list.*
   
 <details class="scroll-fade-in">
-<summary><strong>Some of my old work-ex which might been lost in my CV due to space-constraints:</strong></summary>
+<summary><strong>Earlier work/research experiences (not included in CV due to space constraints) </strong></summary>
 
 <ul>
 <li><strong>June - July 2020: Crew Member and Mentee</strong>
