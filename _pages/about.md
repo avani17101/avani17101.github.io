@@ -39,17 +39,13 @@ Outside work, I maintain an active lifestyle with regular workouts and enjoy rea
 
 ### 2024
 * **January 2024** — Paper **Predicting Business Process Events in Presence of Anomalous IT Events** published at *CODS-COMAD 2024*.
-* **December 2023** — Contributed to release of **Med42 (70B Clinical LLM)** on HuggingFace.
 
 ### 2023
-
-
-
+* **December 2023** — Contributed to release of **Med42 (70B Clinical LLM)** on HuggingFace.
 * **September 2023** — Paper **Concept Distillation: Leveraging Human-Centered Explanations for Model Improvement** accepted to *NeurIPS 2023*.
 * **September 2023** — Successfully defended my Master's Thesis at IIIT Hyderabad.
 
 ### 2022
-
 * **December 2022** — Received **Best Paper Award** and **Oral Presentation** at *ICVGIP 2022* for work titled **Interpreting Intrinsic Image Decomposition using Concept Activations**.
 * **October 2022** — Paper **CitRet: A Hybrid Model for Cited Text Span Retrieval** accepted to *COLING 2022*.
 
