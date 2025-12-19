@@ -20,10 +20,7 @@ Here is my CV if you need one:
 
 
 Research Journey:
-I began my research at the Centre for Visual Information Technology (CVIT), where I completed my Master's by Research under my advisor Prof. P. J. Narayanan. My thesis focused on leveraging human-centered concepts for model improvement and evaluation <a href="{{ 'https://ims-extr.iiit.ac.in/do.php?FdyOJIBFQDgQST7aIl74EmH/XfCoPQjtl2QYeg1lTMj4yPhOKFyf9NZq5CaQGtofPtj6jSEN3UmKNCrNygICb/mAAcO+QrDsTw3UPtC5PJWFsTzSe50Kx26BDCGEkWESc1xiLDj00ZLrOv3jAz0/yA==' | url }}" target="_blank">thesis</a> , which resulted in publications at NeurIPS 2023 and a Best Paper Award at ICVGIP 2022.
-
-
-
+I began my research at the Centre for Visual Information Technology (CVIT), where I completed my B.Tech (honours) and Master's by Research under my advisor Prof. P. J. Narayanan. My thesis focused on leveraging human-centered concepts for model improvement and evaluation <a href="https://ims-extr.iiit.ac.in/do.php?FdyOJIBFQDgQST7aIl74EmH/XfCoPQjtl2QYeg1lTMj4yPhOKFyf9NZq5CaQGtofPtj6jSEN3UmKNCrNygICb/mAAcO+QrDsTw3UPtC5PJWFsTzSe50Kx26BDCGEkWESc1xiLDj00ZLrOv3jAz0/yA==" target="_blank">thesis</a>, which resulted in publications at NeurIPS 2023 and a Best Paper Award at ICVGIP 2022.
 During my internships at IBM Research, I worked with Dr. Renuka Sindhgatta on business process automation, where I used reinforcement learning to model next-best-action recommendations for complex organizational processes.
 In my industry research roles, I worked across the full LLM training lifecycle in the clinical domain and code/tools-specific LLMs. I emphasised transparency and trust in my works: from analysing the embeddings of my trained foundation models for coherence to open-source releases like Med42 (70B clinical LLM) and papers on our work.
 I also built production AI assistants serving thousands of users, ensuring safety through custom moderation and jailbreak prevention.
