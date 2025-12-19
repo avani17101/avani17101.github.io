@@ -25,7 +25,7 @@ During my internships at IBM Research, I worked with Dr. Renuka Sindhgatta on bu
 In my industry research roles, I worked across the full LLM training lifecycle in the clinical domain and code/tools-specific LLMs. I emphasised transparency and trust in my works: from analysing the embeddings of my trained foundation models for coherence to open-source releases like Med42 (70B clinical LLM) and papers on our work.
 I also built production AI assistants serving thousands of users, ensuring safety through custom moderation and jailbreak prevention.
 
-Outside of research, I maintain an active lifestyle with regular workouts and enjoy reading philosophy, scientific literature, and watching documentaries. I find flow states (or in the "zone" states) while jotting down new research ideas, practicing Kathak, and creating fine-arts (like sketching and drawing).
+Outside work, I maintain an active lifestyle with regular workouts and enjoy reading philosophy, scientific literature, and watching documentaries. I find flow states (or in the "zone" states) while jotting down new research ideas, practicing Kathak, and creating fine-arts (like sketching and drawing).
 
 ---
 
