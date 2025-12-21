@@ -11,7 +11,7 @@ redirect_from:
 
 Hi, I’m Avani Gupta.
 
-I draw inspiration from human learning to build efficient (both sample-efficient and generalizable), interpretable, and aligned AI systems. My research explores how abstract conceptual knowledge and social learning, two foundations of human intelligence, can be translated into autonomous agents. 
+I draw inspiration from human learning to build efficient (both sample-efficient and generalizable), interpretable, and aligned AI systems. My research explores how abstract conceptual knowledge and social learning, two foundations of human intelligence, can be translated into autonomous agents. I am interested in generalised open-ended learning which can lead to commonsense understanding of the world. While building AI models, I emphasise heavily on transparency, safety and alignment with human values.
 
 Currently, I am working as an AI Engineer in MBZUAI Research Office, where I translate industry problems into academic research, bridging my industry experience with academic research rigor. I'm also working with Prof. Abdalla Swikir on multi-agent reinforcement learning, aiming to induce emergent pro-social behaviors in autonomous agents.
 
