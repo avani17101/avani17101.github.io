@@ -15,24 +15,24 @@ I draw inspiration from human learning to build efficient (both sample-efficient
 
 Currently, I am working as an AI Engineer in the MBZUAI Research Office, where I translate industry problems into academic research, bridging my industry experience with academic research rigor. I'm also working with <a href="https://sites.google.com/view/swikir/" target="_blank">Prof. Abdalla Swikir</a> on multi-agent reinforcement learning with a focus on understanding how explicit peer learning can give rise to *emergent pro-social behaviors*.
 
-Here is my CV if you need one:
+Here is my *CV* if you need one:
 <a href="{{ '/files/Avani_Gupta_CV.pdf' | relative_url }}" target="_blank">Curriculum Vitae</a>
 
-My masters thesis: Leveraging Human-Centered Explanations for Model Improvement and Evaluation (<a href="https://ims-extr.iiit.ac.in/do.php?FdyOJIBFQDgQST7aIl74EmH/XfCoPQjtl2QYeg1lTMj4yPhOKFyf9NZq5CaQGtofPtj6jSEN3UmKNCrNygICb/mAAcO+QrDsTw3UPtC5PJWFsTzSe50Kx26BDCGEkWESc1xiLDj00ZLrOv3jAz0/yA==" target="_blank">thesis link</a>)
+*Masters thesis*: Leveraging Human-Centered Explanations for Model Improvement and Evaluation (<a href="https://ims-extr.iiit.ac.in/do.php?FdyOJIBFQDgQST7aIl74EmH/XfCoPQjtl2QYeg1lTMj4yPhOKFyf9NZq5CaQGtofPtj6jSEN3UmKNCrNygICb/mAAcO+QrDsTw3UPtC5PJWFsTzSe50Kx26BDCGEkWESc1xiLDj00ZLrOv3jAz0/yA==" target="_blank">thesis link</a>)
 
-Research Journey:
+*Publications:* Please see [my publications page](/publications/) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=8yBoW2oAAAAJ) for a full, up-to-date list.
+
+*Research Journey:*
 I began my research at the Centre for Visual Information Technology (CVIT), where I completed my B.Tech (honours) and Master's by Research under my advisor <a href="https://www.iiit.ac.in/faculty/narayanan-p-j/" target="_blank">Prof. P. J. Narayanan</a>. I worked on human-centered abstract concept-based learning for introducing knowledge priors and interpretable control in neural networks, with applications in debiasing and removing spurious correlations (<a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/c9450295fd667740a39a68148fc17f6e-Abstract-Conference.html"  target="_blank">NeurIPS 2023</a>).
 During my internships at IBM Research, I worked with <a href="https://research.ibm.com/people/renuka-sindhgatta" target="_blank">Dr. Renuka Sindhgatta</a> on business process automation, where I used reinforcement learning to model next-best-action recommendations for complex organizational processes.
 In my industry research roles, I worked across the full LLM training lifecycle in the clinical domain with <a href="https://scholar.google.com/citations?user=HD4-OxgAAAAJ&hl=en" target="_blank">Dr. Shadab Khan</a> and <a href="https://mpimentel.gitlab.io/" target="_blank">Dr. Marco Pimentel</a>, as well as on code/tools-specific LLMs. I emphasised transparency and trust in my works: from analysing clinical coherence of patient embeddings from my trained foundation models to open-source releases such as <a href="https://huggingface.co/m42-health/med42-70b">Med42</a>, a 70B clinical LLM and papers on our work.
 I also built production AI assistants serving thousands of users, ensuring safety through custom moderation and jailbreak prevention.
 
-Outside work, I maintain an active lifestyle with regular workouts and enjoy reading philosophy, scientific literature, and watching documentaries. I find flow states (or in the "zone" states) while jotting down new research ideas, practicing Kathak, and creating fine-arts (like sketching and drawing).
+Outside work, I maintain an active lifestyle with regular workouts and enjoy reading philosophy, scientific literature, and watching documentaries. I find flow states (or in the "zone" state) while jotting down new research ideas, practicing Kathak, and creating fine-arts (like sketching and drawing).
 
-My motto of life?
-
+*My life moto:*
 > *Do what you believe in, do your best in whatever you do, and let outcomes follow.*
 
----
 
 ## News
 
@@ -56,10 +56,7 @@ My motto of life?
 
 <!-- Unable to include 'publications.html' because the file does not exist in the _includes directory. Please create the file or list your publications manually below. -->
 
-<!-- Example Publications Section -->
-## Publications
 
-*Please see [Google Scholar](https://scholar.google.com/citations?hl=en&user=8yBoW2oAAAAJ) or [my publications page](/publications/) for a full, up-to-date list.*
   
 <details class="scroll-fade-in">
 <summary><strong>Earlier work/research experiences (not included in CV due to space constraints) </strong></summary>
