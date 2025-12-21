@@ -55,7 +55,7 @@ Outside work, I maintain an active lifestyle with regular workouts and enjoy rea
 <!-- Example Publications Section -->
 ## Publications
 
-*Please See [Google Scholar](https://scholar.google.com/citations?hl=en&user=8yBoW2oAAAAJ) or [my publications page](/publications/) for a full, up-to-date list.*
+*Please see [Google Scholar](https://scholar.google.com/citations?hl=en&user=8yBoW2oAAAAJ) or [my publications page](/publications/) for a full, up-to-date list.*
   
 <details class="scroll-fade-in">
 <summary><strong>Earlier work/research experiences (not included in CV due to space constraints) </strong></summary>
