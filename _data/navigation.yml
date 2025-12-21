@@ -4,7 +4,7 @@ main:
     url: /projects/  
   - title: "Publications"
     url: /publications/ 
-  # - title: "News"
-  #   url: /news
+  - title: "CV"
+    url: /files/Avani_Gupta_CV.pdf
 
     
