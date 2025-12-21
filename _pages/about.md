@@ -29,7 +29,6 @@ I also built production AI assistants serving thousands of users, ensuring safet
 Outside work, I maintain an active lifestyle with regular workouts and enjoy reading philosophy, scientific literature, and watching documentaries. I find flow states (or in the "zone" states) while jotting down new research ideas, practicing Kathak, and creating fine-arts (like sketching and drawing).
 
 My motto of life?
----
 
 > *Do what you believe in, do your best in whatever you do, and let outcomes follow.*
 
