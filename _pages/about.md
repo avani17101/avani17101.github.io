@@ -8,10 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-
 Hi, I’m Avani Gupta.
 
-I draw inspiration from human learning to build efficient (both sample-efficient and generalizable), interpretable, and aligned AI systems. My research explores how *abstract conceptual knowledge* and *social learning*, two foundations of human intelligence, can be translated into autonomous agents. I am particularly interested in training paradigms for generalized open-ended learning that enable common-sense understanding of the world, while ensuring transparency, safety, and alignment with human values.
+I draw inspiration from human learning to build efficient, interpretable, and aligned AI systems. My research focuses on how abstract conceptual representations and social learning mechanisms enable generalization, controllability, and alignment in complex learning systems, particularly multi-agent settings. I am particularly interested in training paradigms for generalized open-ended learning that enable common-sense understanding while ensuring transparency, safety, and alignment with human values.
+
+My research interests span the following themes:
+
+**Interpretable Control:** Addressing representation superposition through concept-based steering and whitening, enabling controllable latent representations with minimal supervision.
+
+**Social Alignment:** Exploring peer learning and collective survival dynamics as pathways toward emergent pro-social behavior without explicit preference labels.
 
 Currently, I am working as an AI Engineer in the MBZUAI Research Office, where I translate industry problems into academic research, bridging my industry experience with academic research rigor. I'm also working with <a href="https://sites.google.com/view/swikir/" target="_blank">Prof. Abdalla Swikir</a> and <a href="https://imranrazzak.github.io/" target="_blank">Prof. Imran Razzak</a>  on multi-agent reinforcement learning with a focus on understanding how explicit peer learning can give rise to *emergent pro-social behaviors*.
 
@@ -25,7 +30,7 @@ Here is my *CV* if you need one:
 *Research Journey:*
 I began my research at the Centre for Visual Information Technology (CVIT), where I completed my B.Tech (honours) and Master's by Research under my advisor <a href="https://www.iiit.ac.in/faculty/narayanan-p-j/" target="_blank">Prof. P. J. Narayanan</a>. I worked on human-centered abstract concept-based learning for introducing knowledge priors and interpretable control in neural networks, with applications in debiasing and removing spurious correlations (<a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/c9450295fd667740a39a68148fc17f6e-Abstract-Conference.html"  target="_blank">NeurIPS 2023</a>).
 During my internships at IBM Research, I worked with <a href="https://research.ibm.com/people/renuka-sindhgatta" target="_blank">Dr. Renuka Sindhgatta</a> on business process automation, where I used reinforcement learning to model next-best-action recommendations for complex organizational processes.
-In my industry research roles, I worked across the full LLM training lifecycle in the clinical domain with <a href="https://scholar.google.com/citations?user=HD4-OxgAAAAJ&hl=en" target="_blank">Dr. Shadab Khan</a> and <a href="https://mpimentel.gitlab.io/" target="_blank">Dr. Marco Pimentel</a>, as well as on code/tools-specific LLMs. I emphasised transparency and trust in my works: from analysing clinical coherence of patient embeddings from my trained foundation models to open-source releases such as <a href="https://huggingface.co/m42-health/med42-70b">Med42</a>, a 70B clinical LLM and papers on our work.
+In my industry research roles, I worked across the full LLM training lifecycle in the clinical domain with <a href="https://scholar.google.com/citations?user=HD4-OxgAAAAJ&hl=en" target="_blank">Dr. Shadab Khan</a> and <a href="https://mpimentel.gitlab.io/" target="_blank">Dr. Marco Pimentel</a>, as well as on code/tools-specific LLMs. I emphasised transparency and trust in my works: from analysing clinical coherence of patient embeddings from my trained foundation models to open-source releases such as <a href="https://huggingface.co/m42-health/med42-70b">Med42</a>, a 70B clinical LLM and <a href="https://aclanthology.org/2025.emnlp-main.1174/">89B dataset</a> release for building trust and bias analysis.
 I also built production AI assistants serving thousands of users, ensuring safety through custom moderation and jailbreak prevention.
 
 Outside work, I maintain an active lifestyle with regular workouts and enjoy reading philosophy, scientific literature, and watching documentaries. I find flow states (or in the "zone" state) while jotting down new research ideas, practicing Kathak, and creating fine-arts (like sketching and drawing).
