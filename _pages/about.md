@@ -114,6 +114,34 @@ Outside work, I maintain an active lifestyle with regular workouts and enjoy rea
 </ul>
 
 </details>
+
+## Honors & Awards
+
+* **Best Paper Award**, *ICVGIP 2022* — 1/400+ papers. [Link](https://blogs.iiit.ac.in/monthly_news/best-paper-awards-at-icvgip-2022/).
+* **Global Rank 14**, *Amazon ML Challenge 2021* — 3,000+ teams, 12K participants. [Link](https://www.hackerearth.com/challenges/competitive/amazon-ml-challenge/leaderboard/).
+* **National Winner**, *Smart India Hackathon 2020* — Top 0.1% from 100,000+ teams. [Link](https://www.linkedin.com/posts/iiithofficial_iiith-team-wins-prize-at-smart-india-hackathon-activity-6697363417914851328-7um0).
+* **National Winner**, *Microsoft Mars Program 2020* — Selected from 100,000+ students. [Link](https://www.linkedin.com/posts/avani17101-gupta_codess2020-microsoft-marscolonizationprogram-activity-6699576620551958528-1p3A).
+* **Dean's List** (Top 1% SGPA, Monsoon 2021) & **Merit List** (Top 5% SGPA, Spring 2021), IIIT Hyderabad. 
+* **Merit-Based Chief Minister's State Scholarship** (2017, 2018), Chhattisgarh. 
+
+---
+
+## Service & Leadership
+
+* **Reviewer**: ICML 2026, CVPR 2026, NeurIPS 2025, ACL 2024, AAAI 2023  
+
+* **Teaching & Mentorship**:  
+  * Teaching Assistant for *Statistical Methods in AI* (Spring 2022). 
+  * Guest talks on NeRFs, GANs, and interpretability at the 3D Vision Summer School and IIIT-H Computer Graphics course (2021–2022).
+  * AI Tutor and Mentor for the TalentSprint Professional AI Program (2022–2023). 
+
+* **Workshops & Community Engagement**:  
+  * Instructor for the GANs Workshop [GitHub](https://github.com/avani17101/ML-workshop-GANs). 
+  * Organizer of the AIcrowd *ML Battleground* challenge (2021) [Link](https://www.aicrowd.com/challenges/ml-battleground).
+  * Student Volunteer at NeurIPS RL Workshop (2021).  
+
+* **Student Organizations**:  
+  Events Wing Member, Robotics Club, IIIT Hyderabad.  
      
 
 
