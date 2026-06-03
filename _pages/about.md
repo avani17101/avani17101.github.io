@@ -20,6 +20,12 @@ My research interests span the following themes:
 
 Currently, I am working as an AI Engineer in the MBZUAI Research Office, where I translate industry problems into academic research, bridging my industry experience with academic research rigor. I'm also working with <a href="https://sites.google.com/view/swikir/" target="_blank">Prof. Abdalla Swikir</a> and <a href="https://imranrazzak.github.io/" target="_blank">Prof. Imran Razzak</a>  on multi-agent reinforcement learning with a focus on understanding how explicit peer learning can give rise to *emergent pro-social behaviors*.
 
+Why abstractions/symbolic thought and social alignment together?
+> *Although much remains to be learned, researchers have identified three interacting factors that account for our (human) exceptional capacity for cultural evolution: prosociality, social control, and symbolic thought.[1]*
+
+[1] Wilson, David Sloan, et al. "Multilevel cultural evolution: from new theory to practical applications." Proceedings of the National Academy of Sciences 120.16 (2023): e2218222120
+
+
 Here is my *CV* if you need one:
 <a href="{{ '/files/Avani_Gupta_CV.pdf' | relative_url }}" target="_blank">Curriculum Vitae</a>
 
